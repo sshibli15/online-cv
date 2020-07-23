@@ -158,6 +158,9 @@ skills:
       - name: Polyglot Programmer. Specializing in GoLang, Python, C, C++, Java, Scala​, JavaScript, Typescript
         level: 98%
 
+      - name: Spring Framework. Specializes in Spring Boot, Spring Data, Spring Cloud, Spring Batch, Spring AMQP
+        level: 99%
+        
       - name: Containerization and Microservices solutions. Docker and Kubernetes
         level: 98%
 
