@@ -148,19 +148,20 @@ experiences:
         Apache Spark, Databricks, Docker
 
 projects:
-    title: COVID 19
+    title: Personal Projects
     intro: >
-      During the present novel coronavirus (COVID-19) pandemic, those on the
-      front lines—including health care professionals, researchers, and
-      government experts—need quick, easy access to real-time critical data.
-      This type of information exchange is what APIs do best. I designed and
-      implemented a full-fledged web application that uses api.covid19api and
-      render results in easy to understand graphical representations of current
-      COVID 19 cases around the world
+      Some of my latest softare projects           
     assignments:
       - title: Covid 19 API
         link: "https://covid19api.khalidrizvi.com"
-        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "During the present novel coronavirus (COVID-19) pandemic,
+        those on the front lines—including health care professionals,
+        researchers, and government experts—need quick, easy access to
+        real-time critical data. This type of information exchange is what
+        APIs do best. I designed and implemented a full-fledged web
+        application that uses api.covid19api and render results in easy to
+        understand graphical representations of current COVID 19 cases around
+        the world"
 
 #       - title: DevStudio
 #         link: "#"
