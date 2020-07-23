@@ -131,16 +131,34 @@ experiences:
         mini streams, thus improving the batch time by reducing elapsed time
         from hours to only a few minutes. Technologies: Java 8, Redis 4,
         Spring Boot, Spring Batch, Tomcat, Akka, Guice, Scala, Docker
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Loyalty System Design, Software Architect
+      time: Nov, 2016 - Oct, 2017
+      company: Mastercard, O’Fallon, MO
+      details: |
+        Worked on an assignment for loyalty services to global customers. The
+        existing system had issues with time of delivery and latency.  Led
+        this colossal batch system redesign by designing and implementing a
+        flexible mechanism, where an external partner can be connected to the
+        existing Loyalty program by following a flexible meta-dictionary.
+        After the transformation, the system integrated seamlessly with
+        several acquisitions and partnerships supporting Loyalty strategies to
+        expand revenue growth rate. The target system supports regional
+        deployment without a substantial investment Technologies: Java 8,
+        Spring Boot, Spring Batch, Kafka, NodeJS, Splunk, Swagger, Scala,
+        Apache Spark, Databricks, Docker
+
+projects:
+    title: COVID 19
+    intro: >
+      During the present novel coronavirus (COVID-19) pandemic, those on the
+      front lines—including health care professionals, researchers, and
+      government experts—need quick, easy access to real-time critical data.
+      This type of information exchange is what APIs do best. This data is
+      provided using api.covid19api
+    assignments:
+      - title: ReactJS
+        link: "https://covid19api.khalidrizvi.com"
+        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 #       - title: DevStudio
 #         link: "#"
