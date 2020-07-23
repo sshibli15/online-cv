@@ -157,7 +157,7 @@ projects:
       implemented a full-fledged web application that uses api.covid19api and
       render results in easy to understand graphical representations of current
       COVID 19 cases around the world
-assignments:
+    assignments:
       - title: Covid 19 API
         link: "https://covid19api.khalidrizvi.com"
         # tagline: "A responsive website template designed to help startups promote, market and sell their products."
