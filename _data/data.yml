@@ -155,23 +155,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Polyglot Programmer. Specializing in GoLang, Python, C, C++, Java, Scala​, JavaScript, Typescript
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Containerization and Microservices solutions. Docker and Kubernetes
         level: 98%
 
-      - name: Angular
+      - name: Web Technologies. specializes in ReactJS​
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: CI/CD. Uses GIT, Travis CI, Jenkins, and Helm for Kubernetes
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Cloud on AWS, Regular user of AWS S3, CloudWatch, EC2, Elastic Beanstalk, IAM, AWS Lambda, Sagemaker, Route 53, DynamoDB, EKS, AppSync, Amplify, CloudFront, CloudFormation, API Gateway
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: M/L, D/L. Experience with Machine Learning, Deep Learning (AI). Hands-on expertise in Keras and Tensorflow
         level: 60%
+
+      - name: Big Data. Hands-on architect for distributed and streaming applications using Kafka, Akka, Apache Spark using Scala
+        level: 80%
+
+      - name: Rules Expert. Inference based Rules Technologies like JRules, Drools, and Jess
+        level: 90%
+
+      - name: Search Technologies. Used G​SA​, Lucene​, e​elastic search​, H​hibernate search, ​and Apache Solr
+        level: 65%
+
+      - name: Perf. Engg. Provide real-time intelligence and behavior of target applications, and performance of hybrid multi-cloud platforms using S​plunk,​ YourKit​, D​ynatrace
+        level: 74%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> on <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">07/23/2020</a>
