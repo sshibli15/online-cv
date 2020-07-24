@@ -146,7 +146,7 @@ experiences:
         deployment without a substantial investment Technologies: Java 8,
         Spring Boot, Spring Batch, Kafka, NodeJS, Splunk, Swagger, Scala,
         Apache Spark, Databricks, Docker
-    - role: Chief Architect at SDWIS Prime
+    - role: Rules Architect and UI Engineer at SDWIS Prime
       time: Jul, 2014 - Nov, 2016
       company: United States Environmental Protection Agency (US EPA), Washington, DC
       details: |
@@ -167,6 +167,24 @@ experiences:
         until the water quality of samples returns with the compliance value
         Technologies: Java, Jersey for REST, Spring Boot, Spring Data,
         Hibernate, MyBatis, Google Guava, Drools 5, TestNG, Dozer, AngularJS
+    - role: Technical Lead at Health Care Mental EScreening
+      time: Jul, 2013 - Jul, 2014
+      company: Veteran Health Administration (VHA), Washington, DC
+      details: |
+        Designed metadata based application to accelerate the process for
+        enrolling patients into mental health care. The application provides a
+        dynamic web-based intake form for completing mental health assessments
+        to be used for returning Operation Enduring Free/Operation Iraqi
+        Freedom (OEF/OIF) Veterans. The application also allows clinicians to
+        perform patient-directed screening, real-time scoring and chart note
+        generation, and individualized patient feedback. The application
+        enables VA the option to administer eScreening assessments remotely as
+        its functionality allows for the storage of offline data. The
+        application provides a real-time push of clinical information to the
+        VA electronic medical records system and real-time alert to clinicians
+        for evaluation and triage. Technologies: AngularJS, NodeJS, Java 8
+        with functional programming style, MySQL database, Javascript,
+        Hibernate, Spring MVC, Spring Data, and Jasper
 
 projects:
     title: Personal Projects
