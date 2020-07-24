@@ -65,7 +65,7 @@ education:
       time: 1981 - 1985
 
 experiences:
-    - role: Technology Specialist
+    - role: Technology Specialist at NYMTA
       time: 2019 - Present
       company: NYMTA, New York
       details: |
@@ -117,7 +117,7 @@ experiences:
         procedures and artifacts. Technologies: Scala, Java 8, Spring Data,
         Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, Jenkins
         CD/CI, GCP, Kubernetes
-    - role: Batch System Design and Implementation
+    - role: Batch System Design and Implementation Specialist
       time: Oct, 2017 - Apr, 2018
       company: Daito Corporation, Tokyo, JP & Saigon, VN
       details: |
@@ -185,6 +185,17 @@ experiences:
         for evaluation and triage. Technologies: AngularJS, NodeJS, Java 8
         with functional programming style, MySQL database, Javascript,
         Hibernate, Spring MVC, Spring Data, and Jasper
+    - role: Chief Rules Architect at CHAMPVA
+      time: Sep, 2011 - Oct, 2012
+      company: Department of Veteran Affairs (VA), Washington, DC
+      details: |
+        Worked as a JRules expert and architect for The Civilian Health and
+        Medical Program of the Department of Veterans Affairs (CHAMPVA), a
+        comprehensive health care program in which the VA shares the cost of
+        covered health care services and supplies with eligible beneficiaries.
+        Designed and implemented business rules for the Application intake,
+        enrollment, eligibility, leading into the claims benefits
+        Technologies: IBM JRules, Java
 
 projects:
     title: Personal Projects
