@@ -76,8 +76,19 @@ experiences:
         used are Java 8+, Spring Boot, Spring Data, Spring Cloud, Python,
         Django, DjangoRestFramework, React JS, React Native framework, Docker,
         Kubernetes, RedHat OpenShift, Keras, Tensorflow 2.0 
-        - Intergrated Infor OAGIS with Assetwise MIMOSA XML document
-        - Integrated NYMTA Department of Bus with Siemens for Electric KWH Charger
+        - At present, working on integration requirements of the initial phase
+        between Infor EAM and Bentley AssetWise for Metro North Rail, however
+        the integration design is one that will transfer to other agencies
+        provide opportunities for expanded capabilities.
+        - NYMTA public buses have a mix of Gas driven and also electric buses.
+        The Electric buses charge kilowatt (KW) usage data needs to be
+        collected and stored in the NYMTA system of records (SOR). Kilowatts
+        from electric buses were manually downloaded from each charger in CSV
+        format from Siemens to be converted to a weekly excel report and
+        manually entered and tracked in SOR. The responsibility was to
+        automate the process between Siemens and NYMTA SOR. This application’s
+        primary purpose is to pull the charge data from the Siemens system
+        automatically on demand. 
         - Single-handedly, designed a solution for the State of New York's
         largest transportation movers’ supply-chain use-case. The application
         is designed to provide an accurate picture of the current and
