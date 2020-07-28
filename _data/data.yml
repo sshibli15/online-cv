@@ -74,11 +74,11 @@ experiences:
         Responsible for integrating world's largest and best known EAM Asset
         Management Software products, Infor, Bentley, and ESRI. Technologies
         used are Java 8+, Spring Boot, Spring Data, Spring Cloud, Python,
-        Django, DjangoRestFramework, React JS, React Native framework, Docker,
+        Django, DjangoRestFramework, React JS, GraphQL, Docker,
         Kubernetes, RedHat OpenShift, Keras, Tensorflow 2.0 
         - At present, working on integration requirements of the initial phase
         between Infor EAM and Bentley AssetWise for Metro North Rail, however
-        the integration design is one that will transfer to other agencies
+        the integration design is one that will transfer to other agencies to
         provide opportunities for expanded capabilities.
         - NYMTA public buses have a mix of Gas driven and also electric buses.
         The Electric buses charge kilowatt (KW) usage data needs to be
@@ -307,7 +307,7 @@ skills:
       - name: Containerization and Microservices solutions. Docker and Kubernetes
         level: 98%
 
-      - name: Web Technologies. specializes in ReactJS​
+      - name: Web (frontend/backend) Technologies. HTML, CSS, d3, SVG, DOM APIs, Pandas, Vega, Semiotic, Vega-Lite, ggplots2, Tableau, ReactJS​, AngularJS, Angular, NodeJS, ExpressJS, Hapi, NestJS, FeathersJS, NextJS, SequelizeJS, REST, GraphQL
         level: 98%
 
       - name: CI/CD. Uses GIT, Travis CI, Jenkins, and Helm for Kubernetes
@@ -332,4 +332,4 @@ skills:
         level: 74%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> on <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">07/24/2020 krizvi</a>
+    Designed with <i class="fas fa-heart"></i> on <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">07/26/2020 by Khalid</a>
