@@ -298,28 +298,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Polyglot Programmer. Specializing in GoLang, Python, C, C++, Java, Scala​, JavaScript, Typescript
-#        level: 98%
-      - name: Spring Framework. Specializes in Spring Boot, Spring Data, Spring Cloud, Spring Batch, Spring AMQP
-#        level: 99%
-      - name: Containerization and Microservices solutions. Docker and Kubernetes
-#        level: 98%
-      - name: Web (frontend/backend) Technologies. HTML, CSS, d3, SVG, DOM APIs, Pandas, Vega, Semiotic, Vega-Lite, ggplots2, Tableau, ReactJS​, AngularJS, Angular, NodeJS, ExpressJS, Hapi, NestJS, FeathersJS, NextJS, SequelizeJS, REST, GraphQL
-#        level: 98%
-      - name: CI/CD. Uses GIT, Travis CI, Jenkins, and Helm for Kubernetes
-#        level: 95%
-      - name: Cloud on AWS, Regular user of AWS S3, CloudWatch, EC2, Elastic Beanstalk, IAM, AWS Lambda, Sagemaker, Route 53, DynamoDB, EKS, AppSync, Amplify, CloudFront, CloudFormation, API Gateway
-#        level: 85%
-      - name: M/L, D/L. Experience with Machine Learning, Deep Learning (AI). Hands-on expertise in Keras and Tensorflow
-#        level: 60%
-      - name: Big Data. Hands-on architect for distributed and streaming applications using Kafka, Akka, Apache Spark using Scala
-#        level: 80%
-      - name: Rules Expert. Inference based Rules Technologies like JRules, Drools, and Jess
-#        level: 90%
-      - name: Search Technologies. Used G​SA​, Lucene​, e​elastic search​, H​hibernate search, ​and Apache Solr
-#        level: 65%
-      - name: Perf. Engg. Provide real-time intelligence and behavior of target applications, and performance of hybrid multi-cloud platforms using S​plunk,​ YourKit​, D​ynatrace
-#        level: 74%
+      - name: Polyglot Programmer
+        details: Specializing in GoLang, Python, C, C++, Java, Scala​, JavaScript, Typescript
+      - name: Spring Framework
+        details: Specializes in Spring Boot, Spring Data, Spring Cloud, Spring Batch, Spring AMQP
+      - name: Containerization and Microservices solutions
+        details: Regular user of Docker and Kubernetes
+      - name: Web (frontend/backend) Technologies
+        details: HTML, CSS, d3, SVG, DOM APIs, Pandas, Vega, Semiotic, Vega-Lite, ggplots2, Tableau, ReactJS​, AngularJS, Angular, NodeJS, ExpressJS, Hapi, NestJS, FeathersJS, NextJS, SequelizeJS, REST, GraphQL
+      - name: CI/CD.
+        details: Uses GIT, Travis CI, Jenkins, and Helm for Kubernetes
+      - name: Cloud on AWS
+        details: Regular user of AWS S3, CloudWatch, EC2, Elastic Beanstalk, IAM, AWS Lambda, Sagemaker, Route 53, DynamoDB, EKS, AppSync, Amplify, CloudFront, CloudFormation, API Gateway
+      - name: M/L, D/L
+        details: Experience with Machine Learning, Deep Learning (AI). Hands-on expertise in Keras and Tensorflow
+      - name: Big Data
+        details: Hands-on architect for distributed and streaming applications using Kafka, Akka, Apache Spark using Scala
+      - name: Rules Technology
+        details: Expert in Inference based Rules Technologies like JRules, Drools, and Jess
+      - name: Search Technologies
+        details: Used G​SA​, Lucene​, e​elastic search​, H​hibernate search, ​and Apache Solr
+      - name: Performance Engineering
+        details: Provide real-time intelligence and behavior of target applications, and performance of hybrid multi-cloud platforms using S​plunk,​ YourKit​, D​ynatrace
 
 footer: >
     Designed with <i class="fas fa-heart"></i> on <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">07/26/2020 by Khalid</a>
