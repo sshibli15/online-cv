@@ -305,7 +305,7 @@ skills:
       - name: Containerization and Microservices solutions
         details: Regular user of Docker and Kubernetes
       - name: Web (frontend/backend) Technologies
-        details: HTML, CSS, d3, SVG, DOM APIs, Pandas, Vega, Semiotic, Vega-Lite, ggplots2, Tableau, ReactJS​, AngularJS, Angular, NodeJS, ExpressJS, Hapi, NestJS, FeathersJS, NextJS, SequelizeJS, REST, GraphQL
+        details: HTML, CSS, Jekyll, d3, SVG, DOM APIs, Pandas, Vega, Semiotic, Vega-Lite, ggplots2, Tableau, ReactJS​, AngularJS, Angular, NodeJS, ExpressJS, Hapi, NestJS, FeathersJS, NextJS, SequelizeJS, REST, GraphQL
       - name: CI/CD.
         details: Uses GIT, Travis CI, Jenkins, and Helm for Kubernetes
       - name: Cloud on AWS
