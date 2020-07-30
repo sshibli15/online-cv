@@ -1,0 +1,18 @@
+I"z<p>Led the design and implementation of Inference Rule-based
+transactional solution for EPA’s most massive Safe Drinking Water
+Information System (SDWIS). SDWIS contains information about public
+water systems and their violations of EPA’s drinking water
+regulations, as reported to EPA by the states. These regulations
+establish maximum contaminant levels, treatment techniques, and
+monitoring and reporting requirements to ensure that water systems
+provide safe water to their customers With this solution in place, the
+states can upload information about public water systems to EPA. Once
+reported the system is designed to find violations based on the EPA’s
+drinking water regulations with very little human intervention. The
+finished product determines water quality based on sample results,
+thus regulating the monitoring requirements along with deciding about
+different monitoring schedules the water facility has to comply with
+until the water quality of samples returns with the compliance value
+Technologies: Java, Jersey for REST, Spring Boot, Spring Data,
+Hibernate, MyBatis, Google Guava, Drools 5, TestNG, Dozer, AngularJS</p>
+:ET

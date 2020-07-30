@@ -1,0 +1,15 @@
+I"¿<p>I was brought on board to design and implement the replacement of the
+database-centric search with Google-based search using the Google
+Search Appliance (GSA). One of the challenges was to replace the
+entire search engine keeping the existing User Interface. On top of
+this, the client also demanded to be able to search any changed or
+newly added grant in real-time â€“ instantaneously. In addition to this
+significant change, I also designed and implemented a solution where
+information from the old legacy system and the new system could be
+searched, rendered, updated, and deleted (CRUD) seamlessly. This new
+feature was a requirement by the stakeholders in the middle of the
+project and needed a thought. Without an experienced and passionate
+brain, the project would not have been delivered without moving the
+dates. The entire application would have to be, either, re-written or
+broken into pieces where recovery would have been a big challenge</p>
+:ET

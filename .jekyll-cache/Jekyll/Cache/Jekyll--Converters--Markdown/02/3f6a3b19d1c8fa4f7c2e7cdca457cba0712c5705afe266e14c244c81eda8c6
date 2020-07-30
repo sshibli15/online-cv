@@ -1,0 +1,15 @@
+I"­<p>Architected, designed, and implemented a new web-based solution to
+measure the councilorsâ€™ quality of service to the veterans. The system
+utilizes Java EE technologies like web services to receive the data as
+XML payload and a well-designed web front end to allow users to
+respond to a set of questionnaires, depending on the kind of review
+performed. The system shows the logic of the case reviews using
+dynamic and static rules. The core technology stack used was IOC
+library, Guice, by Google Labs for wiring loosely coupled services and
+Controllers, and EJB3 technologies like Stateless Session beans and
+persistence frameworks like JPA with Weblogic Kodo implementation
+technology. The UI was rendered inside the Oracle Weblogic Portal
+server using the Beehive framework, along with the Struts 1.3 web
+framework. The UI used JSP with the JSTL core library, taglibs from
+display tags, JQuery, iText for PDF rendering, and AJAX.</p>
+:ET

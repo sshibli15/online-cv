@@ -1,0 +1,9 @@
+I"û<p>Provided support to mitigate possible lost data in payment pipelines.
+Was able to perform audit and reconstructed the scenarios with
+playback capabilities which visualized the Root cause Analysis (RCA)
+for such data loss. Worked with the stakeholder SMEs to collect and
+analyze current information technology operating models, processes,
+procedures and artifacts. Technologies: Scala, Java 8, Spring Data,
+Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, Jenkins
+CD/CI, GCP, Kubernetes</p>
+:ET

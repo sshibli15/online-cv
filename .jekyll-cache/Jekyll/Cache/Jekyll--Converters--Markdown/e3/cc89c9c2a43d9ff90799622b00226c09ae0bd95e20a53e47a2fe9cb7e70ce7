@@ -1,0 +1,11 @@
+I"ž<p>Designed various solutions to improve the performance and scalability
+of machine generated code. The code converts from COBOL/CL on AS400
+platform to Java pre-Java 8 code. Designed framework which bootstraps
+a single-threaded code and intelligently partitions the code
+vertically and runs the vertical partitions in parallel using
+actor-based technology, Akka. Also applied an in-memory database to
+pre-fetch data asynchronously and feed the data to the framework in
+mini streams, thus improving the batch time by reducing elapsed time
+from hours to only a few minutes. Technologies: Java 8, Redis 4,
+Spring Boot, Spring Batch, Tomcat, Akka, Guice, Scala, Docker</p>
+:ET

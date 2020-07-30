@@ -1,0 +1,12 @@
+I"È<p>Worked on an assignment for loyalty services to global customers. The
+existing system had issues with time of delivery and latency.  Led
+this colossal batch system redesign by designing and implementing a
+flexible mechanism, where an external partner can be connected to the
+existing Loyalty program by following a flexible meta-dictionary.
+After the transformation, the system integrated seamlessly with
+several acquisitions and partnerships supporting Loyalty strategies to
+expand revenue growth rate. The target system supports regional
+deployment without a substantial investment Technologies: Java 8,
+Spring Boot, Spring Batch, Kafka, NodeJS, Splunk, Swagger, Scala,
+Apache Spark, Databricks, Docker</p>
+:ET

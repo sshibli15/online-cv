@@ -1,0 +1,11 @@
+I"y<p>Worked on the Agricultural Risk Management System, or ARM for short, a
+new system for APHIS’ Plant Protection and Quarantine program (or
+PPQ). The application records data about inspections of plant
+materials entering the US from a foreign country. It also supports the
+diagnostic process for identifying potentially harmful pests found in,
+on, or within those materials. The system also supports the formal
+regulatory action for the responsible parties and compel corrective
+action Technologies: Google GWT 2.3+, Spring 3.5, Hibernate 3.6, JBoss
+JBPM, and SOA technologies in a highly collaborative team-based
+environment.</p>
+:ET

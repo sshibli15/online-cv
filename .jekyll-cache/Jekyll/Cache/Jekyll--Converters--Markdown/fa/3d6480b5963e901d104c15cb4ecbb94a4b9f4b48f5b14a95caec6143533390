@@ -1,0 +1,16 @@
+I"Ê<p>Provided  solutions for a Full Stack Typescript Architecture for an
+application that translates terminal interface with modern
+functionality. Replaced an interface to the mainframe green screen
+application which is not very user friendly. Additionally, any look up
+information related to accounts/clients that they needed were spread
+across multiple applications within the organization which resulted in
+the users navigating between multiple systems to ultimately make the
+decision on these exception items. With the new system in place, all
+account information is gathered, exception and client data needed and
+displayed to the user in an integrated web interface. This allows user
+actions to be performed from this web interface without having to
+navigate between multiple screens/systems. Technologies: Typescript,
+NodeJS, NestJS, ExpressJS, ReactJS with Hooks and Redux, Sequelize,
+lodash and other functional libraries, Docker, Kubernetes, RedHat
+OpenShift</p>
+:ET
