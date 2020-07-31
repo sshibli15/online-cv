@@ -69,36 +69,34 @@ experiences:
       time: 2019 - Present
       company: NYMTA, New York
       details: |
-        Responsible for integrating world's largest and best known EAM Asset
-        Management Software products, Infor, Bentley, and ESRI. Technologies
-        used are Java 8+, Spring Boot, Spring Data, Spring Cloud, Python,
-        Django, DjangoRestFramework, React JS, GraphQL, Docker,
-        Kubernetes, RedHat OpenShift, Keras, Tensorflow 2.0 
-        - At present, working on integration requirements of the initial phase
-        between Infor EAM and Bentley AssetWise for Metro North Rail, however
-        the integration design is one that will transfer to other agencies to
-        provide opportunities for expanded capabilities.
+        Responsible for integrating the world's largest and best known EAM
+        Asset Management Software products, Infor, Bentley, and ESRI.
+        Technologies used are Java 8+, Spring Boot, Spring Data, Spring Cloud,
+        Python, Django, DjangoRestFramework, React JS, GraphQL, Docker,
+        Kubernetes, RedHat OpenShift, Keras, Tensorflow 2.0
+        - Bentley-Infor Integration: At present, working on integration
+        requirements of the initial phase between Infor EAM and Bentley
+        AssetWise for Metro-North Rail, however, the integration design is one
+        that will transfer to other agencies to provide opportunities for
+        expanded capabilities.
         - NYMTA public buses have a mix of Gas driven and also electric buses.
         The Electric buses charge kilowatt (KW) usage data needs to be
         collected and stored in the NYMTA system of records (SOR). Kilowatts
         from electric buses were manually downloaded from each charger in CSV
         format from Siemens to be converted to a weekly excel report and
         manually entered and tracked in SOR. The responsibility was to
-        automate the process between Siemens and NYMTA SOR. This application’s
+        automate the process between Siemens and NYMTA SOR. The application's
         primary purpose is to pull the charge data from the Siemens system
-        automatically on demand. 
-        - Single-handedly, designed a solution for the State of New York's
-        largest transportation movers’ supply-chain use-case. The application
-        is designed to provide an accurate picture of the current and
-        potential status of future inventory. Used machine learning to extract
-        knowledge and insights from data using Data Science and predictive
-        analytics to identify, assess, score risks, and find the refill days
-        after applying supervised learning for regression problems to predict
-        inventory level and how many of these items will sell over the next
-        variable time. Used React JS for the front end Web UI and of course,
-        used Reactive Native framework to design and implement the mobile
-        application with React Hooks, Context, and React Navigation following
-        Mobile devices design principles and methodologies
+        automatically on demand.
+        - Talon Parts Application. Designed and implemented a REST-based
+        application with REST endpoints to work as a communication conduit
+        between IBM MQ and Oracle Database. The application carries the
+        payload by The data consumer application will consuming the message
+        and insert the message to the database.
+        - Inventory Min-Max Application. Designed a solution for a supply-chain
+        use-case. The application provides an accurate picture of the current
+        and potential status of future inventory. Used React JS for the front
+        end Web UI and Python Django framework for the backend
     - role: Javascript Specialist
       time: 2018 - 2019
       company: First Republic Bank, San Francisco, CA
