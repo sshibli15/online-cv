@@ -45,13 +45,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - 30+ years of software development experience
       - Self-starter and quick learner, ready to dive into the unknowns
       - Solid attention to detail and problem-solving capabilities
       - Ability to lead a diverse set of individuals to a common goal
-      - Calm under pressure, ability to identify and eloquently manage conflicting constraints
-      - Desire to work in a highly visible and critical role to solve challenging problems
+      - Work in a highly visible and critical role to solve challenging problems
       - Ability to meet aggressive deadlines and provide quick turnaround in a rapid growth/rapid change environment
+      - Analyze functional requirements and implement them
+      - Design and develop software, applying design patterns and best coding practices
+      - Review code and mentor junior developers on the team as needed
 
 education:
     - degree: MS in Computer Science
