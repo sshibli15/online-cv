@@ -1,0 +1,5 @@
+-- make changes in _data/data.yml
+-- run jekyll serve
+-- open _site/index.html
+-- remove all occurance of /online-cv/ (there should be 7 occurances)
+-- run 

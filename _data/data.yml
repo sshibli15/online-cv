@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Khalid Rizvi
-    tagline: Polyglot hands-on technologist
+    tagline: Polyglot Software Panacea
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,11 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - Self-starter and quick learner, ready to dive into the unknowns
+      - 100% hands-on, self-starter and quick learner, ready to dive into the unknowns
       - Solid attention to detail and problem-solving capabilities
-      - Ability to lead a diverse set of individuals to a common goal
+      - Lead a diverse set of individuals to a common goal
       - Work in a highly visible and critical role to solve challenging problems
-      - Ability to meet aggressive deadlines and provide quick turnaround in a rapid growth/rapid change environment
+      - Meet aggressive deadlines and provide quick turnaround in a rapid growth/rapid change environment
       - Analyze functional requirements and implement them
       - Design and develop software, applying design patterns and best coding practices
       - Review code and mentor junior developers on the team as needed
@@ -70,11 +70,11 @@ experiences:
       time: 2019 - Present
       company: NYMTA, New York
       details: |
-        Responsible for integrating the world's largest and best known EAM
-        Asset Management Software products, Infor, Bentley, and ESRI.
-        Technologies used are Java 8+, Spring Boot, Spring Data, Spring Cloud,
-        Python, Django, DjangoRestFramework, React JS, GraphQL, Docker,
-        Kubernetes, RedHat OpenShift, Keras, Tensorflow 2.0
+        Responsible for integrating the world's largest and best known EAM Asset
+        Management Software products, Infor, Bentley, and ESRI. Technologies used are
+        Java 8+, Spring Boot, Spring Data, Spring Cloud, Python, Django,
+        DjangoRestFramework, React JS, GraphQL, Docker, Kubernetes, RedHat OpenShift,
+        Keras, Tensorflow 2.0, Apache Camel, Material-UI, NestJS
         - Bentley-Infor Integration: At present, working on integration
         requirements of the initial phase between Infor EAM and Bentley
         AssetWise for Metro-North Rail, however, the integration design is one
@@ -129,7 +129,7 @@ experiences:
         system to check and ensure data integrity. Limit Geodis’ exposure to
         risk by way of administrative penalties for presenting materially
         incorrect information to New Zealand Customs. Technologies: Java 8,
-        Spring Boot, Spring Batch, Typescript, NodeJS, ReactJS, Sequelize,
+        Spring Boot, Spring Batch, Typescript, NodeJS, Material-UI, ReactJS, Sequelize,
         CSV and XML Parsers, MySQL InnoDB, MyBatis, Heroku, AWS, Docker
     - role: Big Data / Integration Architect
       time: Apr, 2018 - Oct, 2018
