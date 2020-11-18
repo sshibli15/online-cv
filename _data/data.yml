@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Khalid Rizvi
@@ -32,8 +32,11 @@ sidebar:
       - idiom: Urdu
         level: Native
 
+      - idiom: Hindi
+        level: Speak Fluently
+
       - idiom: Spanish
-        level: basic understanding
+        level: Naive
 
     interests:
       - item: Cooking
@@ -43,7 +46,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Professional Profile
     summary: |
       - Conduct hands-on architecture and design of software applications used by millions of customers and thousands of internal workforce users at scale on public cloud infrastructure
       - Provide technical leadership to the design, development, testing, and implementation of solutions to crucial business problems through thoughtful use of modern technology
