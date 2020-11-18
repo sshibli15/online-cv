@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Khalid Rizvi
-    tagline: Polyglot Software Panacea
+    tagline: Polyglot Problem Solver
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: polyglotpanacea@gmail.com
+    email: khalid.rizvi@icloud.com
     phone: +1 703 656 6394
     website: khalidrizvi.com #do not add http://
     linkedin: khalidrizvi
@@ -33,7 +33,7 @@ sidebar:
         level: Native
 
       - idiom: Spanish
-        level: Professional
+        level: basic understanding
 
     interests:
       - item: Cooking
@@ -45,14 +45,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - 100% hands-on, self-starter and quick learner, ready to dive into the unknowns
-      - Solid attention to detail and problem-solving capabilities
-      - Lead a diverse set of individuals to a common goal
-      - Work in a highly visible and critical role to solve challenging problems
-      - Meet aggressive deadlines and provide quick turnaround in a rapid growth/rapid change environment
-      - Analyze functional requirements and implement them
-      - Design and develop software, applying design patterns and best coding practices
-      - Review code and mentor junior developers on the team as needed
+      - Conduct hands-on architecture and design of software applications used by millions of customers and thousands of internal workforce users at scale on public cloud infrastructure
+      - Provide technical leadership to the design, development, testing, and implementation of solutions to crucial business problems through thoughtful use of modern technology
+      - Prepare and present potential technical solutions and advise business and product owners on the technical and business value of proposals, including appropriate tradeoffs, risks, and opportunities
+      - Work with software engineers, product owners, and subject matter experts to understand complex technical and business environments and produce integrated end-to-end solution options
+      - Rapidly engage and understand new business areas and technologies to advise on optimal solutions and investments
+      - Build and maintain relationships with technical leaders, business owners, architects, and other stakeholders to influence investment that reuses shared capabilities and apply defined patterns across teams while realizing architectural targets
+      - Keep up-to-date on cutting edge technology, standards, protocols, and software development tools
+      - Demonstrate strong analytical, problem-solving, and decision making skills
+      - Communicate and drive highly complex technology solutions to broad audiences including executives, business leaders, product managers, legal experts, security specialists, and software engineers
+      - Sell technology strategies internally to cross-functional architecture and business teams
+      - Mentor teams to define, structure, and plan work independently
 
 education:
     - degree: MS in Computer Science
@@ -384,4 +387,4 @@ skills:
         details: Provide real-time intelligence and behavior of target applications, and performance of hybrid multi-cloud platforms using S​plunk,​ YourKit​, D​ynatrace
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> on <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">07/26/2020 by Khalid</a>
+    Designed with <i class="fas fa-heart"></i> on 11/17/2020 by Khalid
