@@ -2,4 +2,4 @@
 -- run jekyll serve
 -- open _site/index.html
 -- remove all occurance of /online-cv/ (there should be 7 occurances)
--- run 
+-- run aws s3 sync _site s3://khalidrizvi.com
