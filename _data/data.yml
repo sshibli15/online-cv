@@ -3,319 +3,320 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Khalid Rizvi
-    tagline: Polyglot Problem Solver
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Khalid Rizvi
+  tagline: Java, Spring Boot,
+    Microservices Specialist
+  avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: khalid.rizvi@icloud.com
-    phone: +1 703 656 6394
-    website: khalidrizvi.com #do not add http://
-    linkedin: khalidrizvi
-    github: krizvi
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: khalid.rizvi@icloud.com
+  phone: +1 703 656 6394
+  website: khalidrizvi.com #do not add http://
+  linkedin: khalidrizvi
+  github: krizvi
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Fluent
+  languages:
+    - idiom: English
+      level: Fluent
 
-      - idiom: Urdu
-        level: Native
+    - idiom: Urdu
+      level: Native
 
-      - idiom: Hindi
-        level: Speak Fluently
+    - idiom: Hindi
+      level: Speak Fluently
 
-      - idiom: Spanish
-        level: Naive
+    - idiom: Spanish
+      level: Naive
 
-    interests:
-      - item: Cooking
-        link:
+  interests:
+    - item: Cooking
+      link:
 
-      - item: Programming
-        link:
+    - item: Programming
+      link:
 
 career-profile:
-    title: Professional Profile
-    summary: |
-      - Conduct hands-on architecture and design of software applications used by millions of customers and thousands of internal workforce users at scale on public cloud infrastructure
-      - Provide technical leadership to the design, development, testing, and implementation of solutions to crucial business problems through thoughtful use of modern technology
-      - Prepare and present potential technical solutions and advise business and product owners on the technical and business value of proposals, including appropriate tradeoffs, risks, and opportunities
-      - Work with software engineers, product owners, and subject matter experts to understand complex technical and business environments and produce integrated end-to-end solution options
-      - Rapidly engage and understand new business areas and technologies to advise on optimal solutions and investments
-      - Build and maintain relationships with technical leaders, business owners, architects, and other stakeholders to influence investment that reuses shared capabilities and apply defined patterns across teams while realizing architectural targets
-      - Keep up-to-date on cutting edge technology, standards, protocols, and software development tools
-      - Demonstrate strong analytical, problem-solving, and decision making skills
-      - Communicate and drive highly complex technology solutions to broad audiences including executives, business leaders, product managers, legal experts, security specialists, and software engineers
-      - Sell technology strategies internally to cross-functional architecture and business teams
-      - Mentor teams to define, structure, and plan work independently
+  title: Professional Profile
+  summary: |
+    - Conduct hands-on architecture and design of software applications used by millions of customers and thousands of internal workforce users at scale on public cloud infrastructure
+    - Provide technical leadership to the design, development, testing, and implementation of solutions to crucial business problems through thoughtful use of modern technology
+    - Prepare and present potential technical solutions and advise business and product owners on the technical and business value of proposals, including appropriate tradeoffs, risks, and opportunities
+    - Work with software engineers, product owners, and subject matter experts to understand complex technical and business environments and produce integrated end-to-end solution options
+    - Rapidly engage and understand new business areas and technologies to advise on optimal solutions and investments
+    - Build and maintain relationships with technical leaders, business owners, architects, and other stakeholders to influence investment that reuses shared capabilities and apply defined patterns across teams while realizing architectural targets
+    - Keep up-to-date on cutting edge technology, standards, protocols, and software development tools
+    - Demonstrate strong analytical, problem-solving, and decision making skills
+    - Communicate and drive highly complex technology solutions to broad audiences including executives, business leaders, product managers, legal experts, security specialists, and software engineers
+    - Sell technology strategies internally to cross-functional architecture and business teams
+    - Mentor teams to define, structure, and plan work independently
 
 education:
-    - degree: MS in Computer Science
-      university: Calfornia State University, Sacramento, CA
-      time: 1993 - 1995
-    - degree: MS in Mechanical Engineering
-      university: Pakistan Navy Engineering College, Karachi, Pakistan
-      time: 1987 - 1989
-    - degree: BS in Mechanical Engineering
-      university: NED Engineering University, Karachi, Pakistan
-      time: 1981 - 1985
+  - degree: MS in Computer Science
+    university: Calfornia State University, Sacramento, CA
+    time: 1993 - 1995
+  - degree: MS in Mechanical Engineering
+    university: Pakistan Navy Engineering College, Karachi, Pakistan
+    time: 1987 - 1989
+  - degree: BS in Mechanical Engineering
+    university: NED Engineering University, Karachi, Pakistan
+    time: 1981 - 1985
 
 experiences:
-    - role: Technology Specialist at NYMTA
-      time: 2019 - Present
-      company: NYMTA, New York
-      details: |
-        Responsible for integrating the world's largest and best known EAM Asset
-        Management Software products, Infor, Bentley, and ESRI. Technologies used are
-        Java 8+, Spring Boot, Spring Data, Spring Cloud, Python, Django,
-        DjangoRestFramework, React JS, GraphQL, Docker, Kubernetes, RedHat OpenShift,
-        Keras, Tensorflow 2.0, Apache Camel, Material-UI, NestJS
-        - Bentley-Infor Integration: At present, working on integration
-        requirements of the initial phase between Infor EAM and Bentley
-        AssetWise for Metro-North Rail, however, the integration design is one
-        that will transfer to other agencies to provide opportunities for
-        expanded capabilities.
-        - NYMTA public buses have a mix of Gas driven and also electric buses.
-        The Electric buses charge kilowatt (KW) usage data needs to be
-        collected and stored in the NYMTA system of records (SOR). Kilowatts
-        from electric buses were manually downloaded from each charger in CSV
-        format from Siemens to be converted to a weekly excel report and
-        manually entered and tracked in SOR. The responsibility was to
-        automate the process between Siemens and NYMTA SOR. The application's
-        primary purpose is to pull the charge data from the Siemens system
-        automatically on demand.
-        - Talon Parts Application. Designed and implemented a REST-based
-        application with REST endpoints to work as a communication conduit
-        between IBM MQ and Oracle Database. The application carries the
-        payload by The data consumer application will consuming the message
-        and insert the message to the database.
-        - Inventory Min-Max Application. Designed a solution for a supply-chain
-        use-case. The application provides an accurate picture of the current
-        and potential status of future inventory. Used React JS for the front
-        end Web UI and Python Django framework for the backend
-    - role: Javascript Specialist
-      time: 2018 - 2019
-      company: First Republic Bank, San Francisco, CA
-      details: |
-        Provided  solutions for a Full Stack Typescript Architecture for an
-        application that translates terminal interface with modern
-        functionality. Replaced an interface to the mainframe green screen
-        application which is not very user friendly. Additionally, any look up
-        information related to accounts/clients that they needed were spread
-        across multiple applications within the organization which resulted in
-        the users navigating between multiple systems to ultimately make the
-        decision on these exception items. With the new system in place, all
-        account information is gathered, exception and client data needed and
-        displayed to the user in an integrated web interface. This allows user
-        actions to be performed from this web interface without having to
-        navigate between multiple screens/systems. Technologies: Typescript,
-        NodeJS, NestJS, ExpressJS, ReactJS with Hooks and Redux, Sequelize,
-        lodash and other functional libraries, Docker, Kubernetes, RedHat
-        OpenShift
-    - role: Hands-on Solution Architect
-      time: Jul, 2018 - Nov, 2018
-      company: Geodis New Zealand Ltd, Auckland, NZ
-      details: |
-        Worked for Geodis, New Zealand and Australia’s Customs Broker.
-        Designed and implemented a software solution that provides accurate
-        and timely information to New Zealand Customs. Improved data quality
-        in Geodis’ internal system. Demonstrated to Nestle as well as to New
-        Zealand Customs that Geodis has a reliable application management
-        system to check and ensure data integrity. Limit Geodis’ exposure to
-        risk by way of administrative penalties for presenting materially
-        incorrect information to New Zealand Customs. Technologies: Java 8,
-        Spring Boot, Spring Batch, Typescript, NodeJS, Material-UI, ReactJS, Sequelize,
-        CSV and XML Parsers, MySQL InnoDB, MyBatis, Heroku, AWS, Docker
-    - role: Big Data / Integration Architect
-      time: Apr, 2018 - Oct, 2018
-      company: PayPal, San Jose, CA
-      details: |
-        Provided support to mitigate possible lost data in payment pipelines.
-        Was able to perform audit and reconstructed the scenarios with
-        playback capabilities which visualized the Root cause Analysis (RCA)
-        for such data loss. Worked with the stakeholder SMEs to collect and
-        analyze current information technology operating models, processes,
-        procedures and artifacts. Technologies: Scala, Java 8, Spring Data,
-        Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, Jenkins
-        CD/CI, GCP, Kubernetes
-    - role: Batch System Design and Implementation Specialist
-      time: Oct, 2017 - Apr, 2018
-      company: Daito Corporation, Tokyo, JP & Saigon, VN
-      details: |
-        Designed various solutions to improve the performance and scalability
-        of machine generated code. The code converts from COBOL/CL on AS400
-        platform to Java pre-Java 8 code. Designed framework which bootstraps
-        a single-threaded code and intelligently partitions the code
-        vertically and runs the vertical partitions in parallel using
-        actor-based technology, Akka. Also applied an in-memory database to
-        pre-fetch data asynchronously and feed the data to the framework in
-        mini streams, thus improving the batch time by reducing elapsed time
-        from hours to only a few minutes. Technologies: Java 8, Redis 4,
-        Spring Boot, Spring Batch, Tomcat, Akka, Guice, Scala, Docker
-    - role: Loyalty System Design, Software Architect
-      time: Nov, 2016 - Oct, 2017
-      company: Mastercard, O’Fallon, MO
-      details: |
-        Worked on an assignment for loyalty services to global customers. The
-        existing system had issues with time of delivery and latency.  Led
-        this colossal batch system redesign by designing and implementing a
-        flexible mechanism, where an external partner can be connected to the
-        existing Loyalty program by following a flexible meta-dictionary.
-        After the transformation, the system integrated seamlessly with
-        several acquisitions and partnerships supporting Loyalty strategies to
-        expand revenue growth rate. The target system supports regional
-        deployment without a substantial investment Technologies: Java 8,
-        Spring Boot, Spring Batch, Kafka, NodeJS, Splunk, Swagger, Scala,
-        Apache Spark, Databricks, Docker
-    - role: Rules Architect and UI Engineer at SDWIS Prime
-      time: Jul, 2014 - Nov, 2016
-      company: United States Environmental Protection Agency (US EPA), Washington, DC
-      details: |
-        Led the design and implementation of Inference Rule-based
-        transactional solution for EPA's most massive Safe Drinking Water
-        Information System (SDWIS). SDWIS contains information about public
-        water systems and their violations of EPA's drinking water
-        regulations, as reported to EPA by the states. These regulations
-        establish maximum contaminant levels, treatment techniques, and
-        monitoring and reporting requirements to ensure that water systems
-        provide safe water to their customers With this solution in place, the
-        states can upload information about public water systems to EPA. Once
-        reported the system is designed to find violations based on the EPA's
-        drinking water regulations with very little human intervention. The
-        finished product determines water quality based on sample results,
-        thus regulating the monitoring requirements along with deciding about
-        different monitoring schedules the water facility has to comply with
-        until the water quality of samples returns with the compliance value
-        Technologies: Java, Jersey for REST, Spring Boot, Spring Data,
-        Hibernate, MyBatis, Google Guava, Drools 5, TestNG, Dozer, AngularJS
-    - role: Technical Lead at Health Care Mental EScreening
-      time: Jul, 2013 - Jul, 2014
-      company: Veteran Health Administration (VHA), Washington, DC
-      details: |
-        Designed metadata based application to accelerate the process for
-        enrolling patients into mental health care. The application provides a
-        dynamic web-based intake form for completing mental health assessments
-        to be used for returning Operation Enduring Free/Operation Iraqi
-        Freedom (OEF/OIF) Veterans. The application also allows clinicians to
-        perform patient-directed screening, real-time scoring and chart note
-        generation, and individualized patient feedback. The application
-        enables VA the option to administer eScreening assessments remotely as
-        its functionality allows for the storage of offline data. The
-        application provides a real-time push of clinical information to the
-        VA electronic medical records system and real-time alert to clinicians
-        for evaluation and triage. Technologies: AngularJS, NodeJS, Java 8
-        with functional programming style, MySQL database, Javascript,
-        Hibernate, Spring MVC, Spring Data, and Jasper
-    - role: Chief Rules Architect at CHAMPVA
-      time: Sep, 2011 - Oct, 2012
-      company: Department of Veteran Affairs (VA), Washington, DC
-      details: |
-        Worked as a JRules expert and architect for The Civilian Health and
-        Medical Program of the Department of Veterans Affairs (CHAMPVA), a
-        comprehensive health care program in which the VA shares the cost of
-        covered health care services and supplies with eligible beneficiaries.
-        Designed and implemented business rules for the Application intake,
-        enrollment, eligibility, leading into the claims benefits
-        Technologies: IBM JRules, Java
-    - role: Technical Lead at Risk Management In Agriculture
-      time: Jan, 2011 - Aug, 2011
-      company: United States Department of Agriculture, (USDA) Washington, DC
-      details: |
-        Worked on the Agricultural Risk Management System, or ARM for short, a
-        new system for APHIS' Plant Protection and Quarantine program (or
-        PPQ). The application records data about inspections of plant
-        materials entering the US from a foreign country. It also supports the
-        diagnostic process for identifying potentially harmful pests found in,
-        on, or within those materials. The system also supports the formal
-        regulatory action for the responsible parties and compel corrective
-        action Technologies: Google GWT 2.3+, Spring 3.5, Hibernate 3.6, JBoss
-        JBPM, and SOA technologies in a highly collaborative team-based
-        environment.
-    - role: Handson Application Architect
-      time: July 2009 - Dec 2010
-      company: Veterans Benefits Administration (VBA)
-      details: |
-        Architected, designed, and implemented a new web-based solution to
-        measure the councilors' quality of service to the veterans. The system
-        utilizes Java EE technologies like web services to receive the data as
-        XML payload and a well-designed web front end to allow users to
-        respond to a set of questionnaires, depending on the kind of review
-        performed. The system shows the logic of the case reviews using
-        dynamic and static rules. The core technology stack used was IOC
-        library, Guice, by Google Labs for wiring loosely coupled services and
-        Controllers, and EJB3 technologies like Stateless Session beans and
-        persistence frameworks like JPA with Weblogic Kodo implementation
-        technology. The UI was rendered inside the Oracle Weblogic Portal
-        server using the Beehive framework, along with the Struts 1.3 web
-        framework. The UI used JSP with the JSTL core library, taglibs from
-        display tags, JQuery, iText for PDF rendering, and AJAX.
-    - role: SOA Specialist / ESB Integration Consultant
-      time: Nov 2007 – July 2009
-      company: Veterans Health Administration (VHA), Washington, VA
-      details: |
-        Responsible for identifying opportunities for reuse of architectural,
-        requirements, and design artifacts. Conducted efforts such as the
-        arbitration of design trades spanning system elements. Provided
-        cross-project coordination, communication, and documentation of
-        architectural issues, decisions, and specifications. Interpreted and
-        transformed high-level policy and cross-cutting requirements into
-        documented architectural specifications. Identified cross-team needs
-        and communicate them for realization by infrastructure teams. Managed
-        and verified tractability from business requirements to technology
-        implementation. and provide guidance and detailed planning around
-        component and data migration and disaster recovery
-    - role: Search Engine Architect
-      time: Nov 2006 - Nov 2007
-      company: Grants.gov, Oakton, VA
-      details: |
-        I was brought on board to design and implement the replacement of the
-        database-centric search with Google-based search using the Google
-        Search Appliance (GSA). One of the challenges was to replace the
-        entire search engine keeping the existing User Interface. On top of
-        this, the client also demanded to be able to search any changed or
-        newly added grant in real-time -- instantaneously. In addition to this
-        significant change, I also designed and implemented a solution where
-        information from the old legacy system and the new system could be
-        searched, rendered, updated, and deleted (CRUD) seamlessly. This new
-        feature was a requirement by the stakeholders in the middle of the
-        project and needed a thought. Without an experienced and passionate
-        brain, the project would not have been delivered without moving the
-        dates. The entire application would have to be, either, re-written or
-        broken into pieces where recovery would have been a big challenge
-    - role: Principal Consultant
-      time: Jul 1997 - Nov 2006
-      company: Computer Science Corporation (CSC), Waltham, MA
-      details: |
-        CSC employed me as a Forte developer. After Forte, I moved to
-        Java-based solutions' consulting, and then I was engaged with the core
-        Architecture Services practice which included Systems, Program and
-        Enterprise Architecture, Performance Engineering, and the Systems
-        Performance Center, a corporate Center of Excellence. Employment with
-        CSC, I worked for a variety of Fortune 500 industries, including data
-        centers, financial institutions, health care providers,
-        pharmaceuticals, advertisement selling, dot-coms, and insurance
-        companies. Worked on projects covering a wide array of SDLC phases,
-        ranging from discovery, design, development, testing, deployment, and
-        support
+  - role: Technology Specialist at NYMTA
+    time: 2019 - Present
+    company: NYMTA, New York
+    details: |
+      Responsible for integrating the world's largest and best known EAM Asset
+      Management Software products, Infor, Bentley, and ESRI. Technologies used are
+      Java 8+, Spring Boot, Spring Data, Spring Cloud, Python, Django,
+      DjangoRestFramework, React JS, GraphQL, Docker, Kubernetes, RedHat OpenShift,
+      Keras, Tensorflow 2.0, Apache Camel, Material-UI, NestJS
+      - Bentley-Infor Integration: At present, working on integration
+      requirements of the initial phase between Infor EAM and Bentley
+      AssetWise for Metro-North Rail, however, the integration design is one
+      that will transfer to other agencies to provide opportunities for
+      expanded capabilities.
+      - NYMTA public buses have a mix of Gas driven and also electric buses.
+      The Electric buses charge kilowatt (KW) usage data needs to be
+      collected and stored in the NYMTA system of records (SOR). Kilowatts
+      from electric buses were manually downloaded from each charger in CSV
+      format from Siemens to be converted to a weekly excel report and
+      manually entered and tracked in SOR. The responsibility was to
+      automate the process between Siemens and NYMTA SOR. The application's
+      primary purpose is to pull the charge data from the Siemens system
+      automatically on demand.
+      - Talon Parts Application. Designed and implemented a REST-based
+      application with REST endpoints to work as a communication conduit
+      between IBM MQ and Oracle Database. The application carries the
+      payload by The data consumer application will consuming the message
+      and insert the message to the database.
+      - Inventory Min-Max Application. Designed a solution for a supply-chain
+      use-case. The application provides an accurate picture of the current
+      and potential status of future inventory. Used React JS for the front
+      end Web UI and Python Django framework for the backend
+  - role: Javascript Specialist
+    time: 2018 - 2019
+    company: First Republic Bank, San Francisco, CA
+    details: |
+      Provided  solutions for a Full Stack Typescript Architecture for an
+      application that translates terminal interface with modern
+      functionality. Replaced an interface to the mainframe green screen
+      application which is not very user friendly. Additionally, any look up
+      information related to accounts/clients that they needed were spread
+      across multiple applications within the organization which resulted in
+      the users navigating between multiple systems to ultimately make the
+      decision on these exception items. With the new system in place, all
+      account information is gathered, exception and client data needed and
+      displayed to the user in an integrated web interface. This allows user
+      actions to be performed from this web interface without having to
+      navigate between multiple screens/systems. Technologies: Typescript,
+      NodeJS, NestJS, ExpressJS, ReactJS with Hooks and Redux, Sequelize,
+      lodash and other functional libraries, Docker, Kubernetes, RedHat
+      OpenShift
+  - role: Hands-on Solution Architect
+    time: Jul, 2018 - Nov, 2018
+    company: Geodis New Zealand Ltd, Auckland, NZ
+    details: |
+      Worked for Geodis, New Zealand and Australia’s Customs Broker.
+      Designed and implemented a software solution that provides accurate
+      and timely information to New Zealand Customs. Improved data quality
+      in Geodis’ internal system. Demonstrated to Nestle as well as to New
+      Zealand Customs that Geodis has a reliable application management
+      system to check and ensure data integrity. Limit Geodis’ exposure to
+      risk by way of administrative penalties for presenting materially
+      incorrect information to New Zealand Customs. Technologies: Java 8,
+      Spring Boot, Spring Batch, Typescript, NodeJS, Material-UI, ReactJS, Sequelize,
+      CSV and XML Parsers, MySQL InnoDB, MyBatis, Heroku, AWS, Docker
+  - role: Big Data / Integration Architect
+    time: Apr, 2018 - Oct, 2018
+    company: PayPal, San Jose, CA
+    details: |
+      Provided support to mitigate possible lost data in payment pipelines.
+      Was able to perform audit and reconstructed the scenarios with
+      playback capabilities which visualized the Root cause Analysis (RCA)
+      for such data loss. Worked with the stakeholder SMEs to collect and
+      analyze current information technology operating models, processes,
+      procedures and artifacts. Technologies: Scala, Java 8, Spring Data,
+      Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, Jenkins
+      CD/CI, GCP, Kubernetes
+  - role: Batch System Design and Implementation Specialist
+    time: Oct, 2017 - Apr, 2018
+    company: Daito Corporation, Tokyo, JP & Saigon, VN
+    details: |
+      Designed various solutions to improve the performance and scalability
+      of machine generated code. The code converts from COBOL/CL on AS400
+      platform to Java pre-Java 8 code. Designed framework which bootstraps
+      a single-threaded code and intelligently partitions the code
+      vertically and runs the vertical partitions in parallel using
+      actor-based technology, Akka. Also applied an in-memory database to
+      pre-fetch data asynchronously and feed the data to the framework in
+      mini streams, thus improving the batch time by reducing elapsed time
+      from hours to only a few minutes. Technologies: Java 8, Redis 4,
+      Spring Boot, Spring Batch, Tomcat, Akka, Guice, Scala, Docker
+  - role: Loyalty System Design, Software Architect
+    time: Nov, 2016 - Oct, 2017
+    company: Mastercard, O’Fallon, MO
+    details: |
+      Worked on an assignment for loyalty services to global customers. The
+      existing system had issues with time of delivery and latency.  Led
+      this colossal batch system redesign by designing and implementing a
+      flexible mechanism, where an external partner can be connected to the
+      existing Loyalty program by following a flexible meta-dictionary.
+      After the transformation, the system integrated seamlessly with
+      several acquisitions and partnerships supporting Loyalty strategies to
+      expand revenue growth rate. The target system supports regional
+      deployment without a substantial investment Technologies: Java 8,
+      Spring Boot, Spring Batch, Kafka, NodeJS, Splunk, Swagger, Scala,
+      Apache Spark, Databricks, Docker
+  - role: Rules Architect and UI Engineer at SDWIS Prime
+    time: Jul, 2014 - Nov, 2016
+    company: United States Environmental Protection Agency (US EPA), Washington, DC
+    details: |
+      Led the design and implementation of Inference Rule-based
+      transactional solution for EPA's most massive Safe Drinking Water
+      Information System (SDWIS). SDWIS contains information about public
+      water systems and their violations of EPA's drinking water
+      regulations, as reported to EPA by the states. These regulations
+      establish maximum contaminant levels, treatment techniques, and
+      monitoring and reporting requirements to ensure that water systems
+      provide safe water to their customers With this solution in place, the
+      states can upload information about public water systems to EPA. Once
+      reported the system is designed to find violations based on the EPA's
+      drinking water regulations with very little human intervention. The
+      finished product determines water quality based on sample results,
+      thus regulating the monitoring requirements along with deciding about
+      different monitoring schedules the water facility has to comply with
+      until the water quality of samples returns with the compliance value
+      Technologies: Java, Jersey for REST, Spring Boot, Spring Data,
+      Hibernate, MyBatis, Google Guava, Drools 5, TestNG, Dozer, AngularJS
+  - role: Technical Lead at Health Care Mental EScreening
+    time: Jul, 2013 - Jul, 2014
+    company: Veteran Health Administration (VHA), Washington, DC
+    details: |
+      Designed metadata based application to accelerate the process for
+      enrolling patients into mental health care. The application provides a
+      dynamic web-based intake form for completing mental health assessments
+      to be used for returning Operation Enduring Free/Operation Iraqi
+      Freedom (OEF/OIF) Veterans. The application also allows clinicians to
+      perform patient-directed screening, real-time scoring and chart note
+      generation, and individualized patient feedback. The application
+      enables VA the option to administer eScreening assessments remotely as
+      its functionality allows for the storage of offline data. The
+      application provides a real-time push of clinical information to the
+      VA electronic medical records system and real-time alert to clinicians
+      for evaluation and triage. Technologies: AngularJS, NodeJS, Java 8
+      with functional programming style, MySQL database, Javascript,
+      Hibernate, Spring MVC, Spring Data, and Jasper
+  - role: Chief Rules Architect at CHAMPVA
+    time: Sep, 2011 - Oct, 2012
+    company: Department of Veteran Affairs (VA), Washington, DC
+    details: |
+      Worked as a JRules expert and architect for The Civilian Health and
+      Medical Program of the Department of Veterans Affairs (CHAMPVA), a
+      comprehensive health care program in which the VA shares the cost of
+      covered health care services and supplies with eligible beneficiaries.
+      Designed and implemented business rules for the Application intake,
+      enrollment, eligibility, leading into the claims benefits
+      Technologies: IBM JRules, Java
+  - role: Technical Lead at Risk Management In Agriculture
+    time: Jan, 2011 - Aug, 2011
+    company: United States Department of Agriculture, (USDA) Washington, DC
+    details: |
+      Worked on the Agricultural Risk Management System, or ARM for short, a
+      new system for APHIS' Plant Protection and Quarantine program (or
+      PPQ). The application records data about inspections of plant
+      materials entering the US from a foreign country. It also supports the
+      diagnostic process for identifying potentially harmful pests found in,
+      on, or within those materials. The system also supports the formal
+      regulatory action for the responsible parties and compel corrective
+      action Technologies: Google GWT 2.3+, Spring 3.5, Hibernate 3.6, JBoss
+      JBPM, and SOA technologies in a highly collaborative team-based
+      environment.
+  - role: Handson Application Architect
+    time: July 2009 - Dec 2010
+    company: Veterans Benefits Administration (VBA)
+    details: |
+      Architected, designed, and implemented a new web-based solution to
+      measure the councilors' quality of service to the veterans. The system
+      utilizes Java EE technologies like web services to receive the data as
+      XML payload and a well-designed web front end to allow users to
+      respond to a set of questionnaires, depending on the kind of review
+      performed. The system shows the logic of the case reviews using
+      dynamic and static rules. The core technology stack used was IOC
+      library, Guice, by Google Labs for wiring loosely coupled services and
+      Controllers, and EJB3 technologies like Stateless Session beans and
+      persistence frameworks like JPA with Weblogic Kodo implementation
+      technology. The UI was rendered inside the Oracle Weblogic Portal
+      server using the Beehive framework, along with the Struts 1.3 web
+      framework. The UI used JSP with the JSTL core library, taglibs from
+      display tags, JQuery, iText for PDF rendering, and AJAX.
+  - role: SOA Specialist / ESB Integration Consultant
+    time: Nov 2007 – July 2009
+    company: Veterans Health Administration (VHA), Washington, VA
+    details: |
+      Responsible for identifying opportunities for reuse of architectural,
+      requirements, and design artifacts. Conducted efforts such as the
+      arbitration of design trades spanning system elements. Provided
+      cross-project coordination, communication, and documentation of
+      architectural issues, decisions, and specifications. Interpreted and
+      transformed high-level policy and cross-cutting requirements into
+      documented architectural specifications. Identified cross-team needs
+      and communicate them for realization by infrastructure teams. Managed
+      and verified tractability from business requirements to technology
+      implementation. and provide guidance and detailed planning around
+      component and data migration and disaster recovery
+  - role: Search Engine Architect
+    time: Nov 2006 - Nov 2007
+    company: Grants.gov, Oakton, VA
+    details: |
+      I was brought on board to design and implement the replacement of the
+      database-centric search with Google-based search using the Google
+      Search Appliance (GSA). One of the challenges was to replace the
+      entire search engine keeping the existing User Interface. On top of
+      this, the client also demanded to be able to search any changed or
+      newly added grant in real-time -- instantaneously. In addition to this
+      significant change, I also designed and implemented a solution where
+      information from the old legacy system and the new system could be
+      searched, rendered, updated, and deleted (CRUD) seamlessly. This new
+      feature was a requirement by the stakeholders in the middle of the
+      project and needed a thought. Without an experienced and passionate
+      brain, the project would not have been delivered without moving the
+      dates. The entire application would have to be, either, re-written or
+      broken into pieces where recovery would have been a big challenge
+  - role: Principal Consultant
+    time: Jul 1997 - Nov 2006
+    company: Computer Science Corporation (CSC), Waltham, MA
+    details: |
+      CSC employed me as a Forte developer. After Forte, I moved to
+      Java-based solutions' consulting, and then I was engaged with the core
+      Architecture Services practice which included Systems, Program and
+      Enterprise Architecture, Performance Engineering, and the Systems
+      Performance Center, a corporate Center of Excellence. Employment with
+      CSC, I worked for a variety of Fortune 500 industries, including data
+      centers, financial institutions, health care providers,
+      pharmaceuticals, advertisement selling, dot-coms, and insurance
+      companies. Worked on projects covering a wide array of SDLC phases,
+      ranging from discovery, design, development, testing, deployment, and
+      support
 projects:
-    title: Personal Projects
-    intro: >
-      Some of my latest softare projects           
-    assignments:
-      - title: Covid 19 API
-        link: "https://covid19api.khalidrizvi.com"
-        tagline: "During the present novel coronavirus (COVID-19) pandemic,
+  title: Personal Projects
+  intro: >
+    Some of my latest softare projects
+  assignments:
+    - title: Covid 19 API
+      link: "https://covid19api.khalidrizvi.com"
+      tagline: "During the present novel coronavirus (COVID-19) pandemic,
         those on the front lines—including health care professionals,
         researchers, and government experts—need quick, easy access to
         real-time critical data. This type of information exchange is what
@@ -363,31 +364,31 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Polyglot Programmer
-        details: Specializing in GoLang, Python, C, C++, Java, Scala​, JavaScript, Typescript
-      - name: Spring Framework
-        details: Specializes in Spring Boot, Spring Data, Spring Cloud, Spring Batch, Spring AMQP
-      - name: Containerization and Microservices solutions
-        details: Regular user of Docker and Kubernetes
-      - name: Web (frontend/backend) Technologies
-        details: HTML, CSS, Jekyll, d3, SVG, DOM APIs, Pandas, Vega, Semiotic, Vega-Lite, ggplots2, Tableau, ReactJS​, AngularJS, Angular, NodeJS, ExpressJS, Hapi, NestJS, FeathersJS, NextJS, SequelizeJS, REST, GraphQL
-      - name: CI/CD.
-        details: Uses GIT, Travis CI, Jenkins, and Helm for Kubernetes
-      - name: Cloud on AWS
-        details: Regular user of AWS S3, CloudWatch, EC2, Elastic Beanstalk, IAM, AWS Lambda, Sagemaker, Route 53, DynamoDB, EKS, AppSync, Amplify, CloudFront, CloudFormation, API Gateway
-      - name: M/L, D/L
-        details: Experience with Machine Learning, Deep Learning (AI). Hands-on expertise in Keras and Tensorflow
-      - name: Big Data
-        details: Hands-on architect for distributed and streaming applications using Kafka, Akka, Apache Spark using Scala
-      - name: Rules Technology
-        details: Expert in Inference based Rules Technologies like JRules, Drools, and Jess
-      - name: Search Technologies
-        details: Used G​SA​, Lucene​, e​elastic search​, H​hibernate search, ​and Apache Solr
-      - name: Performance Engineering
-        details: Provide real-time intelligence and behavior of target applications, and performance of hybrid multi-cloud platforms using S​plunk,​ YourKit​, D​ynatrace
+  toolset:
+    - name: Polyglot Programmer
+      details: Specializing in GoLang, Python, C, C++, Java, Scala​, JavaScript, Typescript
+    - name: Spring Framework
+      details: Specializes in Spring Boot, Spring Data, Spring Cloud, Spring Batch, Spring AMQP
+    - name: Containerization and Microservices solutions
+      details: Regular user of Docker and Kubernetes
+    - name: Web (frontend/backend) Technologies
+      details: HTML, CSS, Jekyll, d3, SVG, DOM APIs, Pandas, Vega, Semiotic, Vega-Lite, ggplots2, Tableau, ReactJS​, AngularJS, Angular, NodeJS, ExpressJS, Hapi, NestJS, FeathersJS, NextJS, SequelizeJS, REST, GraphQL
+    - name: CI/CD.
+      details: Uses GIT, Travis CI, Jenkins, and Helm for Kubernetes
+    - name: Cloud on AWS
+      details: Regular user of AWS S3, CloudWatch, EC2, Elastic Beanstalk, IAM, AWS Lambda, Sagemaker, Route 53, DynamoDB, EKS, AppSync, Amplify, CloudFront, CloudFormation, API Gateway
+    - name: M/L, D/L
+      details: Experience with Machine Learning, Deep Learning (AI). Hands-on expertise in Keras and Tensorflow
+    - name: Big Data
+      details: Hands-on architect for distributed and streaming applications using Kafka, Akka, Apache Spark using Scala
+    - name: Rules Technology
+      details: Expert in Inference based Rules Technologies like JRules, Drools, and Jess
+    - name: Search Technologies
+      details: Used G​SA​, Lucene​, e​elastic search​, H​hibernate search, ​and Apache Solr
+    - name: Performance Engineering
+      details: Provide real-time intelligence and behavior of target applications, and performance of hybrid multi-cloud platforms using S​plunk,​ YourKit​, D​ynatrace
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> on 11/17/2020 by Khalid
+  Designed with <i class="fas fa-heart"></i> on 11/17/2020 by Khalid
