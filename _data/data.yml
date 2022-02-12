@@ -7,17 +7,17 @@ sidebar:
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Khalid Rizvi
-  tagline: Java, Spring Boot,
-    Microservices Specialist
+  name: Sohaib Shibli
+  tagline: SAP Gru,
+    BI Specialist
   avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: khalid.rizvi@icloud.com
-  phone: +1 703 656 6394
-  website: khalidrizvi.com #do not add http://
-  linkedin: khalidrizvi
-  github: krizvi
+  email: sohaib.shibli@icloud.com
+  phone: +1 (425) 443-1376
+  website: sohaibshibli.com #do not add http://
+  linkedin: sohaibshibli
+  github: sshibli15
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -36,11 +36,11 @@ sidebar:
     - idiom: Hindi
       level: Speak Fluently
 
-    - idiom: Spanish
-      level: Naive
+    - idiom: 
+      level: 
 
   interests:
-    - item: Cooking
+    - item: Golf
       link:
 
     - item: Programming
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
   title: Professional Profile
   summary: |
-    - Conduct hands-on architecture and design of software applications used by millions of customers and thousands of internal workforce users at scale on public cloud infrastructure
+    - Assist organizational leadership in SAP ERP Roadmap development 
     - Provide technical leadership to the design, development, testing, and implementation of solutions to crucial business problems through thoughtful use of modern technology
     - Prepare and present potential technical solutions and advise business and product owners on the technical and business value of proposals, including appropriate tradeoffs, risks, and opportunities
     - Work with software engineers, product owners, and subject matter experts to understand complex technical and business environments and produce integrated end-to-end solution options
@@ -62,71 +62,37 @@ career-profile:
     - Mentor teams to define, structure, and plan work independently
 
 education:
-  - degree: MS in Computer Science
-    university: Calfornia State University, Sacramento, CA
-    time: 1993 - 1995
-  - degree: MS in Mechanical Engineering
-    university: Pakistan Navy Engineering College, Karachi, Pakistan
-    time: 1987 - 1989
-  - degree: BS in Mechanical Engineering
-    university: NED Engineering University, Karachi, Pakistan
-    time: 1981 - 1985
+  - degree: MBA in Accounting
+    university: University of Phoenix, PH
+    time: 
+  - degree: M.Sc. in Statistics
+    university: Karachi University, Karachi, Pakistan
+    time: 
+  - degree: Advance Certificate in Computer Science
+    university: Institute of Computer Sciences, Karachi, Pakistan
+    time: 
 
 experiences:
-  - role: Technology Specialist at NYMTA
-    time: 2019 - Present
-    company: NYMTA, New York
+  - role: SAP S4HANA/SuccessFactors Migration Specialist at QSTec
+    time: 2020 - Present
+    company: QSTec, Qatar
     details: |
-      Responsible for integrating the world's largest and best known EAM Asset
-      Management Software products, Infor, Bentley, and ESRI. Technologies used are
-      Java 8+, Spring Boot, Spring Data, Spring Cloud, Python, Django,
-      DjangoRestFramework, React JS, GraphQL, Docker, Kubernetes, RedHat OpenShift,
-      Keras, Tensorflow 2.0, Apache Camel, Material-UI, NestJS
-      - Bentley-Infor Integration: At present, working on integration
-      requirements of the initial phase between Infor EAM and Bentley
-      AssetWise for Metro-North Rail, however, the integration design is one
-      that will transfer to other agencies to provide opportunities for
-      expanded capabilities.
-      - NYMTA public buses have a mix of Gas driven and also electric buses.
-      The Electric buses charge kilowatt (KW) usage data needs to be
-      collected and stored in the NYMTA system of records (SOR). Kilowatts
-      from electric buses were manually downloaded from each charger in CSV
-      format from Siemens to be converted to a weekly excel report and
-      manually entered and tracked in SOR. The responsibility was to
-      automate the process between Siemens and NYMTA SOR. The application's
-      primary purpose is to pull the charge data from the Siemens system
-      automatically on demand.
-      - Talon Parts Application. Designed and implemented a REST-based
-      application with REST endpoints to work as a communication conduit
-      between IBM MQ and Oracle Database. The application carries the
-      payload by The data consumer application will consuming the message
-      and insert the message to the database.
-      - Inventory Min-Max Application. Designed a solution for a supply-chain
-      use-case. The application provides an accurate picture of the current
-      and potential status of future inventory. Used React JS for the front
-      end Web UI and Python Django framework for the backend
-  - role: Javascript Specialist
-    time: 2018 - 2019
-    company: First Republic Bank, San Francisco, CA
+      Responsible for Migrating Existing SAP ECC (Make2Stock, Procure2Pay, Sales2Cash, Hire2Seperate, Record2Report ) business Cycles to SAP S4HANA and SuccessFactors on SAP cloud.
+      Implement SSO through SAP IAS and ensured SAP access through internet by users using FIORI Launchpad on desktop and mobile devices.
+      Worked with SAP to resolved unavailability of some functionalites on mobile devices. 
+      Secured SAP MENA Quality Award 2021.          
+  - role: SAP BI Solution Architect 
+    time: 2018 - 2020
+    company: QSTec, Qatar
     details: |
-      Provided  solutions for a Full Stack Typescript Architecture for an
-      application that translates terminal interface with modern
-      functionality. Replaced an interface to the mainframe green screen
-      application which is not very user friendly. Additionally, any look up
-      information related to accounts/clients that they needed were spread
-      across multiple applications within the organization which resulted in
-      the users navigating between multiple systems to ultimately make the
-      decision on these exception items. With the new system in place, all
-      account information is gathered, exception and client data needed and
-      displayed to the user in an integrated web interface. This allows user
-      actions to be performed from this web interface without having to
-      navigate between multiple screens/systems. Technologies: Typescript,
-      NodeJS, NestJS, ExpressJS, ReactJS with Hooks and Redux, Sequelize,
-      lodash and other functional libraries, Docker, Kubernetes, RedHat
-      OpenShift
-  - role: Hands-on Solution Architect
-    time: Jul, 2018 - Nov, 2018
-    company: Geodis New Zealand Ltd, Auckland, NZ
+      Provided BI solutions that enabled CEO and the mangement team to discuss, visualize, and take decision on product cost and overall organizational expenses.
+      The BI solution provided an interactive dashboard showing real time organizational expenses, forcasted and actual produnction quantities 
+      with quality specifications critical for setting market selling prices, and calculating $/Kg product cost after each cost/expense category.
+      The expense categories are classified as per the degree of influence that could reduce the over all product cost. Technologies: SAP BO Lumira,
+      Infoset Queries, SAP BI platform, AD SSO  
+  - role: SAP ECC Support specialist
+    time: 2014 - 2018
+    company: QSTec, Qatar
     details: |
       Worked for Geodis, New Zealand and Australia’s Customs Broker.
       Designed and implemented a software solution that provides accurate
@@ -138,9 +104,9 @@ experiences:
       incorrect information to New Zealand Customs. Technologies: Java 8,
       Spring Boot, Spring Batch, Typescript, NodeJS, Material-UI, ReactJS, Sequelize,
       CSV and XML Parsers, MySQL InnoDB, MyBatis, Heroku, AWS, Docker
-  - role: Big Data / Integration Architect
-    time: Apr, 2018 - Oct, 2018
-    company: PayPal, San Jose, CA
+  - role: SAP ECC Implementation Project Manager
+    time: 2011 - 2014
+    company: QSTec, Qatar
     details: |
       Provided support to mitigate possible lost data in payment pipelines.
       Was able to perform audit and reconstructed the scenarios with
@@ -150,8 +116,8 @@ experiences:
       procedures and artifacts. Technologies: Scala, Java 8, Spring Data,
       Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, Jenkins
       CD/CI, GCP, Kubernetes
-  - role: Batch System Design and Implementation Specialist
-    time: Oct, 2017 - Apr, 2018
+  - role: SAP ECC Implementation Manager
+    time: Oct, 2008 -  Dec 2010
     company: Daito Corporation, Tokyo, JP & Saigon, VN
     details: |
       Designed various solutions to improve the performance and scalability
