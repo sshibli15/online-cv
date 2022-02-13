@@ -81,7 +81,7 @@ experiences:
       Implement SSO through SAP IAS and ensured SAP access through internet by users using FIORI Launchpad on desktop and mobile devices.
       Worked with SAP to resolved unavailability of some functionalites on mobile devices. 
       Secured SAP MENA Quality Award 2021.          
-  - role: SAP BI Solution Architect 
+  - role: SAP BI Solution Architect at QSTec
     time: 2018 - 2020
     company: QSTec, Qatar
     details: |
@@ -90,42 +90,44 @@ experiences:
       with quality specifications critical for setting market selling prices, and calculating $/Kg product cost after each cost/expense category.
       The expense categories are classified as per the degree of influence that could reduce the over all product cost. Technologies: SAP BO Lumira,
       Infoset Queries, SAP BI platform, AD SSO  
-  - role: SAP ECC Support specialist
+  - role: SAP ECC Support specialist at QSTec
     time: 2014 - 2018
     company: QSTec, Qatar
     details: |
       After SAP implementation, ensured that the governance model is in place and followed by users. Periodic ticketing data is reviewed  
-      and corresponding refresher trainings and system enhancements are identified and executed 
-      Technologies: SAP Solution Manager
+      and corresponding refresher trainings and system enhancements are identified and executed.
+      Assisted HR team in resolving End of Service Benefit (ESP) incorrect provision calculation.
+      implemented Delegation of Financial Authority approved by the board in procurement process.
+      Technologies: SAP Solution Manager at QSTec
   - role: SAP ECC Implementation Project Manager
     time: 2011 - 2014
     company: QSTec, Qatar
     details: |
-      A ERP roadmap is developed, shared and approved by managemnet that is aligned with the construction of Polisilicon manufacturing palnt.
-      ERPs from Microsoft, Oracle, and SAP are evluated, the project is awarded to SAP.
-      Non operational modules (FI, CO, MM, HCM, MSS/ESS), Workflows (PR,SES, PO, MM INVOICE ) are ientified as 1st phase implementation scope.
-      AS per the ERP as able to perform audit and reconstructed the scenarios with
-      playback capabilities which visualized the Root cause Analysis (RCA)
-      for such data loss. Worked with the stakeholder SMEs to collect and
-      analyze current information technology operating models, processes,
-      procedures and artifacts. Technologies: Scala, Java 8, Spring Data,
-      Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, Jenkins
-      CD/CI, GCP, Kubernetes
-  - role: SAP ECC Implementation Project Manager
+      A ERP roadmap is developed, shared and approved by management that is aligned with the construction project of Polisilicon manufacturing plant.
+      ERPs from Microsoft, Oracle, and SAP are evaluated, and the project is awarded to SAP.
+      Non operational modules (FI, CO, MM, HCM, MSS/ESS), Workflows (PR,SES, PO, MM INVOICE ) are identified as 1st phase implementation scope.
+      Additional modules WHM, PM, PP  are implemented as per the ERP roadmap. 
+      Worked with production staff to assist revising the  accuracy of production recipe, routing, rates of activities and standard cost calculation.
+      Supported production staff in reconciliation of stock valuation with Finance team. Supported Finance team in comprehending 
+      the production accounting entries and the production order variance calculation and comprehension.
+      Technologies: SAP system hosted with HA, Oracle database, Linux , SSO)
+  - role: SAP ECC Implementation Project Manager at Marmoka
     time: Oct, 2008 -  Dec 2010
     company: Marmoka Foods, Jordan
     details: |
       Led implementation of SAP ECC Industry best practices manufacturing scenarios.
       Developed SAP ECC implemention Roadmap for the group located different coutires.
-      Coach and mentor local team for SAP support model Technologies: SAP ECC, Linux
-  - role: Data Migration Lead
+      Coach and mentor local team for SAP support model. Assits and guided the Fiannce team team in montly closing cycle with SAP system 
+      specially in the stock reconciliation with production activites. 
+      Technologies: SAP ECC, Linux
+  - role: Data Migration Lead at PepsiCo
     time: 2007 - 2008
     company: PepsiCo Intl., Saudi Arabia
     details: |
       Special ETL assigment is given during SAP full implementation, worked with Back Office Associates for full automated ETL cyclce including data Collection, cleansing, transformation, and quality control 
       on existing SAP FICO , COBOL system, Oracle based Go-to market systen, and manual excel files. 
       Technologies: SAP system hosted in one of the PepsiCo hub in Chicago, USA
-  - role: SAP Implementation lead
+  - role: SAP Implementation lead at PepsiCo
     time: 2005 - 2007
     company: PepsiCo Intl., Saudi Arabia
     details: |
@@ -133,30 +135,22 @@ experiences:
       Data Migration from existing COBOL system that led to mismatching the customer balance ageing, to fix the issue co-ordinated with SAP consultants to locate RCA
       and the respective resolution, lead AR accountants to plan and execute the resolution.
       Technologies: SAP system hosted at SAP Germany data centers
-  - role: Go-to Market System implementation
+  - role: Go-to Market System implementation at PepsiCo
     time: 2003 - 2005
-    company: PepsiCo Intl., Saudi ArabiaC
+    company: PepsiCo Intl., Saudi Arabia
     details: |
-      Designed metadata based application to accelerate the process for
-      enrolling patients into mental health care. The application provides a
-      dynamic web-based intake form for completing mental health assessments
-      to be used for returning Operation Enduring Free/Operation Iraqi
-      Freedom (OEF/OIF) Veterans. The application also allows clinicians to
-      perform patient-directed screening, real-time scoring and chart note
-      generation, and individualized patient feedback. The application
-      enables VA the option to administer eScreening assessments remotely as
-      its functionality allows for the storage of offline data. The
-      application provides a real-time push of clinical information to the
-      VA electronic medical records system and real-time alert to clinicians
-      for evaluation and triage. Technologies: AngularJS, NodeJS, Java 8
-      with functional programming style, MySQL database, Javascript,
-      Hibernate, Spring MVC, Spring Data, and Jasper
-  - role: Chief Rules Architect at CHAMPVA
-    time: Sep, 2011 - Oct, 2012
-    company: Department of Veteran Affairs (VA), Washington, DC
+      Led IT Audit Control Projects secure satisfactory high rating in Pepsi corporate audit
+      Project Management of S&D and HH systems in over 50 locations
+      Coaching and mentoring team members
+      Develop sales data warehouse, data extraction and transformation strategy, automate the scripts and train the users on data mining
+      Developed multidimensional reporting tool accessible sales data warehouse to Sales/branch Finance  staff across all the branches 
+      Technologies: Oracle Database, Sun Solaris
+  - role: Asst. IT Manager at PepsiCo
+    time: 1997 - 2003
+    company: PepsiCo Intl., Saudi Arabia
     details: |
-      Worked as a JRules expert and architect for The Civilian Health and
-      Medical Program of the Department of Veterans Affairs (CHAMPVA), a
+      Led IT Audit Control Projects secure satisfactory low rating in Pepsi corporate audit
+      Implemented MCBA COBOL based ERP (Finance, HR, Warehouse, Sales, procurement)
       comprehensive health care program in which the VA shares the cost of
       covered health care services and supplies with eligible beneficiaries.
       Designed and implemented business rules for the Application intake,
