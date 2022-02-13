@@ -116,59 +116,31 @@ experiences:
       procedures and artifacts. Technologies: Scala, Java 8, Spring Data,
       Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, Jenkins
       CD/CI, GCP, Kubernetes
-  - role: SAP ECC Implementation Manager
+  - role: SAP ECC Implementation Project Manager
     time: Oct, 2008 -  Dec 2010
-    company: Daito Corporation, Tokyo, JP & Saigon, VN
+    company: Marmoka Foods, Jordan
     details: |
-      Designed various solutions to improve the performance and scalability
-      of machine generated code. The code converts from COBOL/CL on AS400
-      platform to Java pre-Java 8 code. Designed framework which bootstraps
-      a single-threaded code and intelligently partitions the code
-      vertically and runs the vertical partitions in parallel using
-      actor-based technology, Akka. Also applied an in-memory database to
-      pre-fetch data asynchronously and feed the data to the framework in
-      mini streams, thus improving the batch time by reducing elapsed time
-      from hours to only a few minutes. Technologies: Java 8, Redis 4,
-      Spring Boot, Spring Batch, Tomcat, Akka, Guice, Scala, Docker
-  - role: Loyalty System Design, Software Architect
-    time: Nov, 2016 - Oct, 2017
-    company: Mastercard, O’Fallon, MO
+      Led implementation of SAP ECC Industry best practices manufacturing scenarios.
+      Developed SAP ECC implemention Roadmap for the group located different coutires.
+      Coach and mentor local team for SAP support model Technologies: SAP ECC, Linux
+  - role: Data Migration Lead
+    time: 2007 - 2008
+    company: PepsiCo Intl., Saudi Arabia
     details: |
-      Worked on an assignment for loyalty services to global customers. The
-      existing system had issues with time of delivery and latency.  Led
-      this colossal batch system redesign by designing and implementing a
-      flexible mechanism, where an external partner can be connected to the
-      existing Loyalty program by following a flexible meta-dictionary.
-      After the transformation, the system integrated seamlessly with
-      several acquisitions and partnerships supporting Loyalty strategies to
-      expand revenue growth rate. The target system supports regional
-      deployment without a substantial investment Technologies: Java 8,
-      Spring Boot, Spring Batch, Kafka, NodeJS, Splunk, Swagger, Scala,
-      Apache Spark, Databricks, Docker
-  - role: Rules Architect and UI Engineer at SDWIS Prime
-    time: Jul, 2014 - Nov, 2016
-    company: United States Environmental Protection Agency (US EPA), Washington, DC
+      Special ETL assigment is given during SAP full implementation, worked with Back Office Associates for full automated ETL cyclce including data Collection, cleansing, transformation, and quality control 
+      on existing SAP FICO , COBOL system, Oracle based Go-to market systen, and manual excel files. 
+      Technologies: SAP system hosted in one of the PepsiCo hub in Chicago, USA
+  - role: SAP Implementation lead
+    time: 2005 - 2007
+    company: PepsiCo Intl., Saudi Arabia
     details: |
-      Led the design and implementation of Inference Rule-based
-      transactional solution for EPA's most massive Safe Drinking Water
-      Information System (SDWIS). SDWIS contains information about public
-      water systems and their violations of EPA's drinking water
-      regulations, as reported to EPA by the states. These regulations
-      establish maximum contaminant levels, treatment techniques, and
-      monitoring and reporting requirements to ensure that water systems
-      provide safe water to their customers With this solution in place, the
-      states can upload information about public water systems to EPA. Once
-      reported the system is designed to find violations based on the EPA's
-      drinking water regulations with very little human intervention. The
-      finished product determines water quality based on sample results,
-      thus regulating the monitoring requirements along with deciding about
-      different monitoring schedules the water facility has to comply with
-      until the water quality of samples returns with the compliance value
-      Technologies: Java, Jersey for REST, Spring Boot, Spring Data,
-      Hibernate, MyBatis, Google Guava, Drools 5, TestNG, Dozer, AngularJS
-  - role: Technical Lead at Health Care Mental EScreening
-    time: Jul, 2013 - Jul, 2014
-    company: Veteran Health Administration (VHA), Washington, DC
+      Led the implementation of SAP FICO integated with Go-to-market system.
+      Data Migration from existing COBOL system that led to mismatching the customer balance ageing, to fix the issue co-ordinated with SAP consultants to locate RCA
+      and the respective resolution, lead AR accountants to plan and execute the resolution.
+      Technologies: SAP system hosted at SAP Germany data centers
+  - role: Go-to Market System implementation
+    time: 2003 - 2005
+    company: PepsiCo Intl., Saudi ArabiaC
     details: |
       Designed metadata based application to accelerate the process for
       enrolling patients into mental health care. The application provides a
