@@ -94,22 +94,17 @@ experiences:
     time: 2014 - 2018
     company: QSTec, Qatar
     details: |
-      Worked for Geodis, New Zealand and Australia’s Customs Broker.
-      Designed and implemented a software solution that provides accurate
-      and timely information to New Zealand Customs. Improved data quality
-      in Geodis’ internal system. Demonstrated to Nestle as well as to New
-      Zealand Customs that Geodis has a reliable application management
-      system to check and ensure data integrity. Limit Geodis’ exposure to
-      risk by way of administrative penalties for presenting materially
-      incorrect information to New Zealand Customs. Technologies: Java 8,
-      Spring Boot, Spring Batch, Typescript, NodeJS, Material-UI, ReactJS, Sequelize,
-      CSV and XML Parsers, MySQL InnoDB, MyBatis, Heroku, AWS, Docker
+      After SAP implementation, ensured that the governance model is in place and followed by users. Periodic ticketing data is reviewed  
+      and corresponding refresher trainings and system enhancements are identified and executed 
+      Technologies: SAP Solution Manager
   - role: SAP ECC Implementation Project Manager
     time: 2011 - 2014
     company: QSTec, Qatar
     details: |
-      Provided support to mitigate possible lost data in payment pipelines.
-      Was able to perform audit and reconstructed the scenarios with
+      A ERP roadmap is developed, shared and approved by managemnet that is aligned with the construction of Polisilicon manufacturing palnt.
+      ERPs from Microsoft, Oracle, and SAP are evluated, the project is awarded to SAP.
+      Non operational modules (FI, CO, MM, HCM, MSS/ESS), Workflows (PR,SES, PO, MM INVOICE ) are ientified as 1st phase implementation scope.
+      AS per the ERP as able to perform audit and reconstructed the scenarios with
       playback capabilities which visualized the Root cause Analysis (RCA)
       for such data loss. Worked with the stakeholder SMEs to collect and
       analyze current information technology operating models, processes,
