@@ -13,9 +13,9 @@ sidebar:
 
   # Sidebar links
   email: sohaib.shibli@icloud.com
-  phone: +1 (425) 443-1376
-  website: sohaibshibli.com #do not add http://
-  linkedin: sohaibshibli
+  phone: (425) 443-1376
+  website: #do not add http://
+  linkedin: 
   github: sshibli15
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -38,7 +38,6 @@ sidebar:
   interests:
     - item: Golf
       link:
-
     - item: SAP Project Management 
       link:
 
