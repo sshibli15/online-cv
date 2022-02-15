@@ -39,17 +39,19 @@ sidebar:
     - item: Golf
       link:
 
-    - item: Programming
+    - item: SAP Project Management 
       link:
 
 career-profile:
   title: Professional Profile
   summary: |
-    - 20+ years of hands-on experience of successful implementation of SAP ERP project, analytics solutions, data migration, data governance, 
-      audit project. 
-    - Keen and well versed / abreast with technical knowledge and solutions relating to business.
+    - 20+ years of hands-on experience of successful of SAP related project management (SAP ERP implementation, SAP BI analytics solutions, 
+      SAP data migration/ETL, SAP data governance, SAP audit.
+    - Ability to formulate / adept appropriate problem solving model for each issue while conduction any project.  
+    - Keen and well versed / abreast with SAP technical knowledge and SAP solutions relating to business.
+    - High degree of comprehension of PMI project management framwork.
     - Commercial acumen and in-depth business, operation, and industrial understanding
-    - Led team of  Consultants, Analysts and Report Writers in delivering insight and data visualization for critical business decisions 
+    - Led team of  SAP Consultants, SAP Analysts and SAP Report Writers in delivering insight and data visualization for critical business decisions 
       and end to end business processes.
     - Continuously innovate and modernize, architecture landscape by assessing and adopting new technologies to facilitate business goals.
     - Deeply invested in hiring and mentoring top talent to achieve their career goals.
@@ -86,6 +88,7 @@ experiences:
     time: 2014 - 2018
     company: QSTec, Qatar
     details: |
+      Implemented SAP additional modules PP, PM , EHSM, Product costing, process and maintenance order settlements, process variance settlement
       After SAP implementation, ensured that the governance model is in place and followed by users. Periodic ticketing data is reviewed  
       and corresponding refresher trainings and system enhancements are identified and executed.
       Assisted HR team in resolving End of Service Benefit (ESP) incorrect provision calculation.
