@@ -3,188 +3,226 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Sohaib Shibli
+  tagline: SAP Gru    
+  avatar: sshibli.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: sohaib.shibli@icloud.com
+  phone: +1 (425) 443-1376
+  website: sohaibshibli.com #do not add http://
+  linkedin: sohaibshibli
+  github: sshibli15
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Fluent
 
-      - idiom: French
-        level: Professional
+    - idiom: Urdu
+      level: Native
 
-      - idiom: Spanish
-        level: Professional
+    - idiom: Hindi
+      level: Speak Fluently
 
-    interests:
-      - item: Climbing
-        link:
+    - idiom: 
+      level: 
 
-      - item: Snowboarding
-        link:
+  interests:
+    - item: Golf
+      link:
 
-      - item: Cooking
-        link:
+    - item: Programming
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Professional Profile
+  summary: |
+    - 20+ years of hands-on experience of successful implementation of SAP ERP project, analytics solutions, data migration, data governance, 
+      audit project. 
+    - Keen and well versed / abreast with technical knowledge and solutions relating to business.
+    - Commercial acumen and in-depth business, operation, and industrial understanding
+    - Led team of  Consultants, Analysts and Report Writers in delivering insight and data visualization for critical business decisions 
+      and end to end business processes.
+    - Continuously innovate and modernize, architecture landscape by assessing and adopting new technologies to facilitate business goals.
+    - Deeply invested in hiring and mentoring top talent to achieve their career goals.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  - degree: MBA in Accounting
+    university: University of Phoenix, PH
+    time: 
+  - degree: M.Sc. in Statistics
+    university: Karachi University, Karachi, Pakistan
+    time: 
+  - degree: Advance Certificate in Computer Science
+    university: Institute of Computer Sciences, Karachi, Pakistan
+    time: 
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  - role: SAP S4HANA/SuccessFactors Migration Specialist at QSTec
+    time: 2020 - Present
+    company: QSTec, Qatar
+    details: |
+      Responsible for Migrating Existing SAP ECC (Make2Stock, Procure2Pay, Sales2Cash, Hire2Seperate, Record2Report ) business Cycles to SAP S4HANA and SuccessFactors on SAP cloud.
+      Implement SSO through SAP IAS and ensured SAP access through internet by users using FIORI Launchpad on desktop and mobile devices.
+      Worked with SAP to resolved unavailability of some functionalites on mobile devices. 
+      Secured SAP MENA Quality Award 2021.          
+  - role: SAP BI Solution Architect at QSTec
+    time: 2018 - 2020
+    company: QSTec, Qatar
+    details: |
+      Provided BI solutions that enabled CEO and the mangement team to discuss, visualize, and take decision on product cost and overall organizational expenses.
+      The BI solution provided an interactive dashboard showing real time organizational expenses, forcasted and actual produnction quantities 
+      with quality specifications critical for setting market selling prices, and calculating $/Kg product cost after each cost/expense category.
+      The expense categories are classified as per the degree of influence that could reduce the over all product cost. Technologies: SAP BO Lumira,
+      Infoset Queries, SAP BI platform, AD SSO  
+  - role: SAP ECC Support specialist at QSTec
+    time: 2014 - 2018
+    company: QSTec, Qatar
+    details: |
+      After SAP implementation, ensured that the governance model is in place and followed by users. Periodic ticketing data is reviewed  
+      and corresponding refresher trainings and system enhancements are identified and executed.
+      Assisted HR team in resolving End of Service Benefit (ESP) incorrect provision calculation.
+      implemented Delegation of Financial Authority approved by the board in procurement process.
+      Technologies: SAP Solution Manager at QSTec
+  - role: SAP ECC Implementation Project Manager
+    time: 2011 - 2014
+    company: QSTec, Qatar
+    details: |
+      A ERP roadmap is developed, shared and approved by management that is aligned with the construction project of Polisilicon manufacturing plant.
+      ERPs from Microsoft, Oracle, and SAP are evaluated, and the project is awarded to SAP.
+      Non operational modules (FI, CO, MM, HCM, MSS/ESS), Workflows (PR,SES, PO, MM INVOICE ) are identified as 1st phase implementation scope.
+      Additional modules WHM, PM, PP  are implemented as per the ERP roadmap. 
+      Worked with production staff to assist revising the  accuracy of production recipe, routing, rates of activities and standard cost calculation.
+      Supported production staff in reconciliation of stock valuation with Finance team. Supported Finance team in comprehending 
+      the production accounting entries and the production order variance calculation and comprehension.
+      Technologies: SAP system hosted with HA, Oracle database, Linux , SSO)
+  - role: SAP ECC Implementation Project Manager at Marmoka
+    time: Oct, 2008 -  Dec 2010
+    company: Marmoka Foods, Jordan
+    details: |
+      Led implementation of SAP ECC Industry best practices manufacturing scenarios.
+      Developed SAP ECC implemention Roadmap for the group located different coutires.
+      Coach and mentor local team for SAP support model. Assits and guided the Fiannce team team in montly closing cycle with SAP system 
+      specially in the stock reconciliation with production activites. 
+      Technologies: SAP ECC, Linux
+  - role: Data Migration Lead at PepsiCo
+    time: 2007 - 2008
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Special ETL assigment is given during SAP full implementation, worked with Back Office Associates for full automated ETL cyclce including data Collection, cleansing, transformation, and quality control 
+      on existing SAP FICO , COBOL system, Oracle based Go-to market systen, and manual excel files. 
+      Technologies: SAP system hosted in one of the PepsiCo hub in Chicago, USA
+  - role: SAP Implementation lead at PepsiCo
+    time: 2005 - 2007
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Led the implementation of SAP FICO integated with Go-to-market system.
+      Data Migration from existing COBOL system that led to mismatching the customer balance ageing, to fix the issue co-ordinated with SAP consultants to locate RCA
+      and the respective resolution, lead AR accountants to plan and execute the resolution.
+      Technologies: SAP system hosted at SAP Germany data centers
+  - role: Go-to Market System implementation at PepsiCo
+    time: 2003 - 2005
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Led IT Audit Control Projects secure satisfactory high rating in Pepsi corporate audit
+      Project Management of S&D and HH systems in over 50 locations
+      Coaching and mentoring team members
+      Develop sales data warehouse, data extraction and transformation strategy, automate the scripts and train the users on data mining
+      Developed multidimensional reporting tool accessible sales data warehouse to Sales/branch Finance  staff across all the branches 
+      Technologies: Oracle Database, Sun Solaris
+  - role: Asst. IT Manager at PepsiCo
+    time: 1997 - 2003
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Led IT Audit Control Projects secure satisfactory low rating in Pepsi corporate audit
+      Implemented MCBA COBOL based ERP (Finance, HR, Warehouse, Sales, procurement)
+      setup networking, MCBA , IQW software access to end users, developed users reports used on their daya to day work.
+      Provided L2 support to end users on the all the MCBA functional modules
+      Technologies: MCBA , IQW
+  - role: EMIS ERP Administrator at Mediserve
+    time: 1995 - 1997
+    company: Mediserve, Saudi Arabia
+    details: |
+      Successfully reviewed EMSI ERP implementation and conducted Root Cause Analysis (RCA) 
+      of difference between Customer ledger balances and General Ledger balances. led enhansement in the EMIS.
+      Technologies: EMIS, UNIX environment.
+  - role: Systems Analysts Programmer at W.J. Towell
+    time: 1992 - 1995
+    company: W.J. Towell Computer Services, Sultant of Oman
+    details: |
+      Converted COBOL based ERP to Oracle based ERP. developed additional costing modules.  
+      Technologies: Oracle, Oracle Designer, Oracle Developer, PL/SQL, UNIX environment.
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: 
+  intro: >
+    
+  assignments:
+    - title: 
+      link: 
+      tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+  toolset:
+    - name: SAP project management
+      details: PMI PMBOK,  SAP ASAP Methodology, RunSAP methodology, Scoping, Blueprinting, Data Migration, Authorization, Configuration Documentation, BPD, UAT, Traiing, KT,   
+    - name: End-to-end business processes
+      details: Procure-to-pay, Make-to-Stock, Hire-to-seperate, Sell-to-cash, book-to-report
+    - name: SAP modules
+      details: FI, CO, MM, WHM, PP, PM, FM, HCM, WF, SuccessFactor (EC, ECP, PMGM)
+    - name: SAP technologies
+      details: SAP ECC, SAP S4HANA, SAP FIORI
+    - name: SAP tools
+      details: SAP Business Objects, SAP Lumira, SAP Infosets, SAP Data Services
+    
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> on 02/14/2022 by Sohaib
