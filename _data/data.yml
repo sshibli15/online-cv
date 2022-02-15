@@ -162,14 +162,14 @@ experiences:
     details: |
       Converted COBOL based ERP to Oracle based ERP. developed additional costing modules.  
       Technologies: Oracle, Oracle Designer, Oracle Developer, PL/SQL, UNIX environment.
-projects:
-  title: 
-  intro: >
+#projects:
+#  title: 
+#  intro: >
     
-  assignments:
-    - title: 
-      link: 
-      tagline: 
+#  assignments:
+#   - title: 
+#      link: 
+#      tagline: 
 
 #       - title: DevStudio
 #         link: "#"
