@@ -223,7 +223,7 @@ skills:
     - name: SAP technologies
       details: SAP ECC, SAP S4HANA, SAP FIORI
     - name: SAP tools
-      details: SAP Business Objects, SAP Lumira, SAP Infosets, SAP Data Services
+      details: SAP Business Objects, SAP Lumira, SAP Dashboard, SAP Infosets, SAP Data Services, SAP BI platforms
     
 footer: >
   Designed with <i class="fas fa-heart"></i> on 02/14/2022 by Sohaib
