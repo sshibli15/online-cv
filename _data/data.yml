@@ -70,16 +70,16 @@ experiences:
     time: 2020 - Present
     company: QSTec, Qatar
     details: |
-      Responsible for Migrating Existing SAP ECC (Make2Stock, Procure2Pay, Sales2Cash, Hire2Seperate, Record2Report ) business Cycles to SAP S4HANA and SuccessFactors on SAP cloud.
-      Implement SSO through SAP IAS and ensured SAP access through internet by users using FIORI Launchpad on desktop and mobile devices.
-      Worked with SAP to resolved unavailability of some functionalites on mobile devices. 
+      Responsible for Migrating Existing SAP ECC (Make2Stock, Procure2Pay, Sales2Cash, Hire2Seperate, Record2Report ) business Cycles to SAP S4HANA and 
+      SuccessFactors on SAP cloud. Implement SSO through SAP IAS and ensured SAP access through internet by users using FIORI Launchpad on desktop and 
+      mobile devices. Worked with SAP to resolved unavailability of some functionalites on mobile devices. 
       Secured SAP MENA Quality Award 2021.          
   - role: SAP BI Solution Architect at QSTec
     time: 2018 - 2020
     company: QSTec, Qatar
     details: |
-      Provided BI solutions that enabled CEO and the mangement team to discuss, visualize, and take decision on product cost and overall organizational expenses.
-      The BI solution provided an interactive dashboard showing real time organizational expenses, forcasted and actual produnction quantities 
+      Provided BI solutions that enabled CEO and the mangement team to discuss, visualize, and take decision on product cost and overall organizational 
+      expenses. The BI solution provided an interactive dashboard showing real time organizational expenses, forcasted and actual produnction quantities 
       with quality specifications critical for setting market selling prices, and calculating $/Kg product cost after each cost/expense category.
       The expense categories are classified as per the degree of influence that could reduce the over all product cost. Technologies: SAP BO Lumira,
       Infoset Queries, SAP BI platform, AD SSO  
@@ -118,16 +118,16 @@ experiences:
     time: 2007 - 2008
     company: PepsiCo Intl., Saudi Arabia
     details: |
-      Special ETL assigment is given during SAP full implementation, worked with Back Office Associates for full automated ETL cyclce including data Collection, cleansing, transformation, and quality control 
-      on existing SAP FICO , COBOL system, Oracle based Go-to market systen, and manual excel files. 
+      Special ETL assigment is given during SAP full implementation, worked with Back Office Associates for full automated ETL cyclce including data 
+      Collection, cleansing, transformation, and quality control on existing SAP FICO , COBOL system, Oracle based Go-to market systen, and manual excel files. 
       Technologies: SAP system hosted in one of the PepsiCo hub in Chicago, USA
   - role: SAP Implementation lead at PepsiCo
     time: 2005 - 2007
     company: PepsiCo Intl., Saudi Arabia
     details: |
       Led the implementation of SAP FICO integated with Go-to-market system.
-      Data Migration from existing COBOL system that led to mismatching the customer balance ageing, to fix the issue co-ordinated with SAP consultants to locate RCA
-      and the respective resolution, lead AR accountants to plan and execute the resolution.
+      Data Migration from existing COBOL system that led to mismatching the customer balance ageing, to fix the issue co-ordinated with SAP consultants
+      to locate RCA and the respective resolution, lead AR accountants to plan and execute the resolution.
       Technologies: SAP system hosted at SAP Germany data centers
   - role: SAP Go-to Market System implementation at PepsiCo
     time: 2003 - 2005
@@ -214,7 +214,8 @@ skills:
 
   toolset:
     - name: SAP project management
-      details: PMI PMBOK,  SAP ASAP Methodology, RunSAP methodology, Scoping, Blueprinting, Data Migration, Authorization, Configuration Documentation, BPD, UAT, Traiing, KT,   
+      details: PMI PMBOK,  SAP ASAP Methodology, RunSAP methodology, Scoping, Blueprinting, Data Migration, Authorization, Configuration Documentation, 
+      BPD, UAT, Traiing, KT
     - name: End-to-end business processes
       details: Procure-to-pay, Make-to-Stock, Hire-to-seperate, Sell-to-cash, book-to-report
     - name: SAP modules
