@@ -9,13 +9,13 @@ sidebar:
   # Profile information
   name: Sohaib Shibli
   tagline: SAP Guru    
-  avatar: Sohaib.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: Profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: sshibli15@yahoo.com
-  phone: (425) 443-1376
-  website: #do not add http://
-  linkedin: 
+  email: sohaib.shibli@icloud.com
+  phone: +1 (425) 443-1376
+  website: sohaibshibli.com #do not add http://
+  linkedin: sohaibshibli
   github: sshibli15
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -34,21 +34,28 @@ sidebar:
 
     - idiom: Hindi
       level: Speak Fluently
-  
+
+    - idiom: 
+      level: 
+
   interests:
     - item: Golf
       link:
-    - item: SAP Project Management 
+
+    - item: Programming
       link:
 
 career-profile:
-  title: Qualifications Summary
+  title: Professional Profile
   summary: |
-    -	Instrumental project manager; recognized for delivering outstanding results with highest degree of service and professionalism.
-    -	Proven success in global implementations and upgrades of SAP applications while developing technical architecture and systems design strategies.
-    -	Dynamic and visionary professional; adept at encouraging creativity and innovation, building high-performing teams, and fostering collaborations across all functional areas.
-    -	Possess deep-dive knowledge and working understanding of leveraging SAP Project Management, SAP BI server, and SAP BI client tools, involving, Lumira Designer and Lumira Explorer.
-    -	Articulate and refined communicator; excel at forging and nurturing professional relationships with stakeholders at all levels by utilizing strong interpersonal skills.
+    - 20+ years of hands-on experience of successful implementation of SAP ERP project, analytics solutions, data migration, data governance, 
+      audit project. 
+    - Keen and well versed / abreast with technical knowledge and solutions relating to business.
+    - Commercial acumen and in-depth business, operation, and industrial understanding
+    - Led team of  Consultants, Analysts and Report Writers in delivering insight and data visualization for critical business decisions 
+      and end to end business processes.
+    - Continuously innovate and modernize, architecture landscape by assessing and adopting new technologies to facilitate business goals.
+    - Deeply invested in hiring and mentoring top talent to achieve their career goals.
 education:
   - degree: MBA in Accounting
     university: University of Phoenix, PH
@@ -61,53 +68,108 @@ education:
     time: 
 
 experiences:
-  - role: SAP Project Manager
-    time: 2011 - Present
-    company: Qatar Solar Technology (QSTec) [A Dept. of Qatar Foundation], Doha, Qatar
+  - role: SAP S4HANA/SuccessFactors Migration Specialist at QSTec
+    time: 2020 - Present
+    company: QSTec, Qatar
     details: |
-      Manage all facets of SAP RDS operations associated with   HCM, Payroll, GL, AP, FA MM, ESS/MSS, and WF – Wave 1. Supervise high-skilled teams 
-      in plan and execution of SAP Roadmap and Technical Evaluation. Research, identify, and mitigate discrepancies across original RFP and collaborate 
-      with lead vendor for development of SOW and SLA. Direct cross-functional teams for seamless execution of project scoping and SAP Technical 
-      Evaluation task for Wave 2. Lead full spectrum of technical evaluation and SAP implementation, involving, PP, PM, WHM, SD, AR, and EHSM. 
-      Oversee SAP Technical Landscape execution for acceleration of high performance while adhering to governance process.
-        •	Achieved Quality Award in SAP MENA.
-        •	Ensured optimal SAP implementation via delivering robust training sessions to internal teams.
-        •	Planned, designed, and developed Executive Dashboard by leveraging SAP BOBJ Lumira Designer.
-        •	Updated and transferred SAP ECC to SAP S4HANA as well as Success Factors to SAP cloud environment in efficient manner.
-         
-  - role: Group IT Manager/SAP Project Manager
-    time: 2009 - 2011
-    company: Nahla Corporation, Amman, Jordan
+      Responsible for Migrating Existing SAP ECC (Make2Stock, Procure2Pay, Sales2Cash, Hire2Seperate, Record2Report ) business Cycles to SAP S4HANA and SuccessFactors on SAP cloud.
+      Implement SSO through SAP IAS and ensured SAP access through internet by users using FIORI Launchpad on desktop and mobile devices.
+      Worked with SAP to resolved unavailability of some functionalites on mobile devices. 
+      Secured SAP MENA Quality Award 2021.          
+  - role: SAP BI Solution Architect at QSTec
+    time: 2018 - 2020
+    company: QSTec, Qatar
     details: |
-      
-      Steered full lifecycle of scope implementation process, involving, Forecast2stock, Procure2pay, Sales2Cash, Integration, Accounting, and 
-      Controlling within short duration of five months. Directed presentation of phased implementation, encompassing, core, industry, and 
-      cross-industry components by creation of SAP Solution Roadmap. Managed day-to-day functions of vendor selection for IP Telephony, IP Cameras, 
-      Data Center, LAN, and WAN. Trained, mentored, and guided cross-functional teams to ensure attainment of targeted goals. Administered delivery 
-      of advisory support for SAP Solution landscape and steered Gap research/evaluation. Liaised with top management at diverse stages of 
-      project execution of IT infrastructure and SAP implementation to ensure exceptional service standards for project deliverables. 
-      Coordinated with SAP consultants to ensure smooth project management and developed Project Charter for board of director’s authorizations.
-        •	Collaborated effectively with WNS Global Services for hosting development.
-        •	Performed exceptionally and Attained “SAP Bronze Quality Award 2010” in MENA Region.
-        •	Ensured efficient operations by supervising teams across Jordan, Egypt, Algeria, and Romania
-        •	Facilitated IT infrastructure and service requests via advancements/development of Service delivery organizational structure.
- 
-  - role: Additional Experience
-    time: 
-    company: 
+      Provided BI solutions that enabled CEO and the mangement team to discuss, visualize, and take decision on product cost and overall organizational expenses.
+      The BI solution provided an interactive dashboard showing real time organizational expenses, forcasted and actual produnction quantities 
+      with quality specifications critical for setting market selling prices, and calculating $/Kg product cost after each cost/expense category.
+      The expense categories are classified as per the degree of influence that could reduce the over all product cost. Technologies: SAP BO Lumira,
+      Infoset Queries, SAP BI platform, AD SSO  
+  - role: SAP ECC Support specialist at QSTec
+    time: 2014 - 2018
+    company: QSTec, Qatar
     details: |
-      ASST IT Manager/MIS manager/SAP Manager, PEPSICO, Riyadh
-      MIS Administrator, MediServe, Riyadh
-      Senior Business System Analyst, W.J.Towell Computer Services, Muscat
-     
- projects:
+      After SAP implementation, ensured that the governance model is in place and followed by users. Periodic ticketing data is reviewed  
+      and corresponding refresher trainings and system enhancements are identified and executed.
+      Assisted HR team in resolving End of Service Benefit (ESP) incorrect provision calculation.
+      implemented Delegation of Financial Authority approved by the board in procurement process.
+      Technologies: SAP Solution Manager at QSTec
+  - role: SAP ECC Implementation Project Manager
+    time: 2011 - 2014
+    company: QSTec, Qatar
+    details: |
+      A ERP roadmap is developed, shared and approved by management that is aligned with the construction project of Polisilicon manufacturing plant.
+      ERPs from Microsoft, Oracle, and SAP are evaluated, and the project is awarded to SAP.
+      Non operational modules (FI, CO, MM, HCM, MSS/ESS), Workflows (PR,SES, PO, MM INVOICE ) are identified as 1st phase implementation scope.
+      Additional modules WHM, PM, PP  are implemented as per the ERP roadmap. 
+      Worked with production staff to assist revising the  accuracy of production recipe, routing, rates of activities and standard cost calculation.
+      Supported production staff in reconciliation of stock valuation with Finance team. Supported Finance team in comprehending 
+      the production accounting entries and the production order variance calculation and comprehension.
+      Technologies: SAP system hosted with HA, Oracle database, Linux , SSO)
+  - role: SAP ECC Implementation Project Manager at Marmoka
+    time: Oct, 2008 -  Dec 2010
+    company: Marmoka Foods, Jordan
+    details: |
+      Led implementation of SAP ECC Industry best practices manufacturing scenarios.
+      Developed SAP ECC implemention Roadmap for the group located different coutires.
+      Coach and mentor local team for SAP support model. Assits and guided the Fiannce team team in montly closing cycle with SAP system 
+      specially in the stock reconciliation with production activites. 
+      Technologies: SAP ECC, Linux
+  - role: Data Migration Lead at PepsiCo
+    time: 2007 - 2008
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Special ETL assigment is given during SAP full implementation, worked with Back Office Associates for full automated ETL cyclce including data Collection, cleansing, transformation, and quality control 
+      on existing SAP FICO , COBOL system, Oracle based Go-to market systen, and manual excel files. 
+      Technologies: SAP system hosted in one of the PepsiCo hub in Chicago, USA
+  - role: SAP Implementation lead at PepsiCo
+    time: 2005 - 2007
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Led the implementation of SAP FICO integated with Go-to-market system.
+      Data Migration from existing COBOL system that led to mismatching the customer balance ageing, to fix the issue co-ordinated with SAP consultants to locate RCA
+      and the respective resolution, lead AR accountants to plan and execute the resolution.
+      Technologies: SAP system hosted at SAP Germany data centers
+  - role: Go-to Market System implementation at PepsiCo
+    time: 2003 - 2005
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Led IT Audit Control Projects secure satisfactory high rating in Pepsi corporate audit
+      Project Management of S&D and HH systems in over 50 locations
+      Coaching and mentoring team members
+      Develop sales data warehouse, data extraction and transformation strategy, automate the scripts and train the users on data mining
+      Developed multidimensional reporting tool accessible sales data warehouse to Sales/branch Finance  staff across all the branches 
+      Technologies: Oracle Database, Sun Solaris
+  - role: Asst. IT Manager at PepsiCo
+    time: 1997 - 2003
+    company: PepsiCo Intl., Saudi Arabia
+    details: |
+      Led IT Audit Control Projects secure satisfactory low rating in Pepsi corporate audit
+      Implemented MCBA COBOL based ERP (Finance, HR, Warehouse, Sales, procurement)
+      setup networking, MCBA , IQW software access to end users, developed users reports used on their daya to day work.
+      Provided L2 support to end users on the all the MCBA functional modules
+      Technologies: MCBA , IQW
+  - role: EMIS ERP Administrator at Mediserve
+    time: 1995 - 1997
+    company: Mediserve, Saudi Arabia
+    details: |
+      Successfully reviewed EMSI ERP implementation and conducted Root Cause Analysis (RCA) 
+      of difference between Customer ledger balances and General Ledger balances. led enhansement in the EMIS.
+      Technologies: EMIS, UNIX environment.
+  - role: Systems Analysts Programmer at W.J. Towell
+    time: 1992 - 1995
+    company: W.J. Towell Computer Services, Sultant of Oman
+    details: |
+      Converted COBOL based ERP to Oracle based ERP. developed additional costing modules.  
+      Technologies: Oracle, Oracle Designer, Oracle Developer, PL/SQL, UNIX environment.
+projects:
   title: 
   intro: >
     
   assignments:
-   - title: 
-     link: 
-     tagline: 
+    - title: 
+      link: 
+      tagline: 
 
 #       - title: DevStudio
 #         link: "#"
@@ -151,14 +213,16 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: SAP Modules: 
-      details:   FI | CO | MM | WHM | PP | PM | FM | HCM | WF | SF EC | SF ECP | SF PMGM
-    - name: SAP Technologies
-      details: SAP ECC | SAP S4HANA | SAP FIORI 
+    - name: SAP project management
+      details: PMI PMBOK,  SAP ASAP Methodology, RunSAP methodology, Scoping, Blueprinting, Data Migration, Authorization, Configuration Documentation, BPD, UAT, Traiing, KT,   
+    - name: End-to-end business processes
+      details: Procure-to-pay, Make-to-Stock, Hire-to-seperate, Sell-to-cash, book-to-report
+    - name: SAP modules
+      details: FI, CO, MM, WHM, PP, PM, FM, HCM, WF, SuccessFactor (EC, ECP, PMGM)
+    - name: SAP technologies
+      details: SAP ECC, SAP S4HANA, SAP FIORI
     - name: SAP tools
-      details: SAP business Objects | SAP Lumira | SAP Dashboard | SAP Infosets | SAP ABAP | SAP BI Platforms
-    - name: Certification
-      details: IBM Data Science Profession Certificate | Project Management Professional (PMP) | SAP FI/CO Consultant | Oracle Consultant | Microsoft Systems Engineer 
+      details: SAP Business Objects, SAP Lumira, SAP Infosets, SAP Data Services
     
 footer: >
   Designed with <i class="fas fa-heart"></i> on 02/14/2022 by Sohaib
