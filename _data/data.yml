@@ -155,8 +155,6 @@ skills:
       details:   FI | CO | MM | WHM | PP | PM | FM | HCM | WF | SF EC | SF ECP | SF PMGM
     - name: SAP Technologies
       details: SAP ECC | SAP S4HANA | SAP FIORI 
-    - name: SAP modules
-      details: FI, CO, MM, WHM, PP, PM, FM, HCM, WF, SuccessFactor (EC, ECP, PMGM)
     - name: SAP tools
       details: SAP business Objects | SAP Lumira | SAP Dashboard | SAP Infosets | SAP ABAP | SAP BI Platforms
     - name: Certification
