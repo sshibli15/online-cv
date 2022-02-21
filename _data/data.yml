@@ -82,43 +82,22 @@ experiences:
         -	Ensured optimal SAP implementation via delivering robust training sessions to internal teams.
         -	Planned, designed, and developed Executive Dashboard by leveraging SAP BOBJ Lumira Designer.
         -	Updated and transferred SAP ECC to SAP S4HANA as well as Success Factors to SAP cloud environment in efficient manner.
-  - role: SAP ECC Support specialist at QSTec
-    time: 2014 - 2018
-    company: QSTec, Qatar
+  - role: Group IT Manager/SAP Project Manager
+    time: 2009 - 2011
+    company: Nahla Corporation, Amman, Jordan
     details: |
-      After SAP implementation, ensured that the governance model is in place and followed by users. Periodic ticketing data is reviewed  
-      and corresponding refresher trainings and system enhancements are identified and executed.
-      Assisted HR team in resolving End of Service Benefit (ESP) incorrect provision calculation.
-      implemented Delegation of Financial Authority approved by the board in procurement process.
-      Technologies: SAP Solution Manager at QSTec
-  - role: SAP ECC Implementation Project Manager
-    time: 2011 - 2014
-    company: QSTec, Qatar
-    details: |
-      A ERP roadmap is developed, shared and approved by management that is aligned with the construction project of Polisilicon manufacturing plant.
-      ERPs from Microsoft, Oracle, and SAP are evaluated, and the project is awarded to SAP.
-      Non operational modules (FI, CO, MM, HCM, MSS/ESS), Workflows (PR,SES, PO, MM INVOICE ) are identified as 1st phase implementation scope.
-      Additional modules WHM, PM, PP  are implemented as per the ERP roadmap. 
-      Worked with production staff to assist revising the  accuracy of production recipe, routing, rates of activities and standard cost calculation.
-      Supported production staff in reconciliation of stock valuation with Finance team. Supported Finance team in comprehending 
-      the production accounting entries and the production order variance calculation and comprehension.
-      Technologies: SAP system hosted with HA, Oracle database, Linux , SSO)
-  - role: SAP ECC Implementation Project Manager at Marmoka
-    time: Oct, 2008 -  Dec 2010
-    company: Marmoka Foods, Jordan
-    details: |
-      Led implementation of SAP ECC Industry best practices manufacturing scenarios.
-      Developed SAP ECC implemention Roadmap for the group located different coutires.
-      Coach and mentor local team for SAP support model. Assits and guided the Fiannce team team in montly closing cycle with SAP system 
-      specially in the stock reconciliation with production activites. 
-      Technologies: SAP ECC, Linux
-  - role: Data Migration Lead at PepsiCo
-    time: 2007 - 2008
-    company: PepsiCo Intl., Saudi Arabia
-    details: |
-      Special ETL assigment is given during SAP full implementation, worked with Back Office Associates for full automated ETL cyclce including data Collection, cleansing, transformation, and quality control 
-      on existing SAP FICO , COBOL system, Oracle based Go-to market systen, and manual excel files. 
-      Technologies: SAP system hosted in one of the PepsiCo hub in Chicago, USA
+      Steered full lifecycle of scope implementation process, involving, Forecast2stock, Procure2pay, Sales2Cash, Integration, Accounting, and 
+      Controlling within short duration of five months. Directed presentation of phased implementation, encompassing, core, industry, and 
+      cross-industry components by creation of SAP Solution Roadmap. Managed day-to-day functions of vendor selection for IP Telephony, IP Cameras, 
+      Data Center, LAN, and WAN. Trained, mentored, and guided cross-functional teams to ensure attainment of targeted goals. 
+      Administered delivery of advisory support for SAP Solution landscape and steered Gap research/evaluation. Liaised with top management at 
+      diverse stages of project execution of IT infrastructure and SAP implementation to ensure exceptional service standards for project 
+      deliverables. Coordinated with SAP consultants to ensure smooth project management and developed Project Charter for board of director’s 
+      authorizations.
+        -	Collaborated effectively with WNS Global Services for hosting development.
+        -	Performed exceptionally and Attained “SAP Bronze Quality Award 2010” in MENA Region.
+        -	Ensured efficient operations by supervising teams across Jordan, Egypt, Algeria, and Romania.
+        -	Facilitated IT infrastructure and service requests via advancements/development of Service delivery organizational structure.
   - role: SAP Implementation lead at PepsiCo
     time: 2005 - 2007
     company: PepsiCo Intl., Saudi Arabia
