@@ -69,23 +69,19 @@ education:
     time: 
 
 experiences:
-  - role: SAP S4HANA/SuccessFactors Migration Specialist at QSTec
+  - role: SAP Project Manager
     time: 2011 - Present
-    company: QSTec, Qatar
+    company: Qatar Solar Technology (QSTec) [A Dept. of Qatar Foundation], Doha, Qatar
     details: |
-      Responsible for Migrating Existing SAP ECC (Make2Stock, Procure2Pay, Sales2Cash, Hire2Seperate, Record2Report ) business Cycles to SAP S4HANA and SuccessFactors on SAP cloud.
-      Implement SSO through SAP IAS and ensured SAP access through internet by users using FIORI Launchpad on desktop and mobile devices.
-      Worked with SAP to resolved unavailability of some functionalites on mobile devices. 
-      Secured SAP MENA Quality Award 2021.          
-  - role: SAP BI Solution Architect at QSTec
-    time: 2018 - 2020
-    company: QSTec, Qatar
-    details: |
-      Provided BI solutions that enabled CEO and the mangement team to discuss, visualize, and take decision on product cost and overall organizational expenses.
-      The BI solution provided an interactive dashboard showing real time organizational expenses, forcasted and actual produnction quantities 
-      with quality specifications critical for setting market selling prices, and calculating $/Kg product cost after each cost/expense category.
-      The expense categories are classified as per the degree of influence that could reduce the over all product cost. Technologies: SAP BO Lumira,
-      Infoset Queries, SAP BI platform, AD SSO  
+      Manage all facets of SAP RDS operations associated with   HCM, Payroll, GL, AP, FA MM, ESS/MSS, and WF – Wave 1. Supervise high-skilled teams 
+      in plan and execution of SAP Roadmap and Technical Evaluation. Research, identify, and mitigate discrepancies across original RFP and 
+      collaborate with lead vendor for development of SOW and SLA. Direct cross-functional teams for seamless execution of project scoping and 
+      SAP Technical Evaluation task for Wave 2. Lead full spectrum of technical evaluation and SAP implementation, involving, PP, PM, WHM, SD, AR, 
+      and EHSM. Oversee SAP Technical Landscape execution for acceleration of high performance while adhering to governance process.
+        -	Achieved Quality Award in SAP MENA.
+        -	Ensured optimal SAP implementation via delivering robust training sessions to internal teams.
+        -	Planned, designed, and developed Executive Dashboard by leveraging SAP BOBJ Lumira Designer.
+        -	Updated and transferred SAP ECC to SAP S4HANA as well as Success Factors to SAP cloud environment in efficient manner.
   - role: SAP ECC Support specialist at QSTec
     time: 2014 - 2018
     company: QSTec, Qatar
